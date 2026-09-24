@@ -1,0 +1,92 @@
+/* VitePress theme overrides — start from baked-in vars, extend as needed */
+:root {
+  /* keep defaults; override brand if desired */
+}
+
+/* --- Print / Save-as-PDF --- */
+@media print {
+  /* 1. Hide nav, sidebar, search, prev/next, footer, outline */
+  .VPNav,
+  .VPSidebar,
+  .VPSearchBox,
+  .VPDocFooter,
+  .VPNavBar,
+  .VPLocalNav,
+  .VPDocAside,
+  .VPDoc .aside,
+  .VPContent .aside,
+  footer,
+  .prev-next,
+  .edit-link,
+  .VPBackdrop {
+    display: none !important;
+  }
+
+  /* 2. Force black-on-white, remove shadows, expand content */
+  html,
+  body,
+  .VPDoc,
+  .VPContent,
+  .VPDoc .container,
+  .VPDoc .content {
+    background: #fff !important;
+    color: #000 !important;
+    box-shadow: none !important;
+  }
+
+  .VPDoc .content,
+  .VPDoc .container,
+  .vp-doc {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* 3. Page breaks */
+  h1,
+  h2 {
+    break-before: page;
+  }
+
+  /* first heading on a page should not force extra blank page */
+  h1:first-of-type,
+  h2:first-of-type,
+  .vp-doc h1:first-child,
+  .vp-doc h2:first-child {
+    break-before: avoid;
+  }
+
+  table,
+  pre,
+  blockquote,
+  figure,
+  img,
+  .vp-code-group,
+  div[class*='language-'] {
+    break-inside: avoid;
+  }
+
+  /* 4. Links: external http(s) append URL; internal #anchor plain */
+  a[href^='http']::after {
+    content: ' (' attr(href) ')';
+    font-weight: normal;
+    font-size: 0.9em;
+    word-break: break-all;
+  }
+
+  a[href^='#']::after,
+  a[href^='/']::after {
+    content: none !important;
+  }
+
+  /* 5. Images constrained */
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  /* 6. Page margins */
+  @page {
+    margin: 2cm 1.5cm;
+  }
+}

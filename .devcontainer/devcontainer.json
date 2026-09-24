@@ -1,0 +1,30 @@
+{
+  "name": "Node.js & TypeScript",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:24",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "nodeGypDependencies": true
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode", "Vue.volar", "sst-dev.opencode"]
+    }
+  },
+  "forwardPorts": [5173],
+  "portsAttributes": {
+    "5173": {
+      "label": "VitePress",
+      "onAutoForward": "openPreview"
+    }
+  },
+  "containerEnv": {
+    "PNPM_HOME": "/home/node/.local/share/pnpm"
+  },
+  "remoteEnv": {
+    "PNPM_HOME": "/home/node/.local/share/pnpm",
+    "PATH": "/home/node/.local/share/pnpm/bin:/home/node/.local/share/pnpm:${containerEnv:PATH}"
+  },
+  "postCreateCommand": "npm install -g pnpm@12.6.0 && pnpm install && pnpm build && export PNPM_HOME=\"/home/node/.local/share/pnpm\" && export PATH=\"$PNPM_HOME/bin:$PNPM_HOME:$PATH\" && pnpm add -g opencode-ai",
+  "remoteUser": "node"
+}
