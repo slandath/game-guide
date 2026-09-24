@@ -42,18 +42,29 @@
     padding: 0 !important;
   }
 
-  /* 3. Page breaks */
-  h1,
-  h2 {
+  /* 3. Page breaks: h1 starts a new page; h2/h3 flow continuously
+     (the guide has 100+ h2s, many only a few lines — forcing each onto
+     a new page wastes most of every page) */
+  h1 {
     break-before: page;
   }
 
   /* first heading on a page should not force extra blank page */
   h1:first-of-type,
-  h2:first-of-type,
-  .vp-doc h1:first-child,
-  .vp-doc h2:first-child {
+  .vp-doc h1:first-child {
     break-before: avoid;
+  }
+
+  /* keep section headings with the text that follows them */
+  h2,
+  h3 {
+    break-before: auto;
+    break-after: avoid;
+  }
+
+  .vp-doc {
+    orphans: 3;
+    widows: 3;
   }
 
   table,

@@ -88,7 +88,8 @@ Save-as-PDF output clean, covering:
 
 1. Hide nav, sidebar, search box, edit/prev-next links, footer
 2. Force black-on-white, remove shadows, expand content to full width
-3. Page breaks: `h1`/`h2` start new pages (except first on a page);
+3. Page breaks: `h1` starts a new page (except first on a page);
+   `h2`/`h3` flow continuously but are kept with following text;
    tables/code blocks/images avoid breaking mid-element
 4. Links: internal `#anchor` links print plain; external `http` links
    append their URL in parentheses
