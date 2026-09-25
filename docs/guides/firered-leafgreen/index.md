@@ -6,13 +6,13 @@ title: "FireRed / LeafGreen"
 
 **Written by Deathborn 668**
 
-> Source: GameFAQs FAQ 46239 for Pokémon FireRed/LeafGreen (GBA) — structured from pasted text for personal reference. Original FAQ hosted on GameFAQs/GameSpot/IGN.
+> Source: [GameFAQs FAQ 46239 for Pokémon FireRed/LeafGreen (GBA)](https://gamefaqs.gamespot.com/gba/918915-pokemon-firered-version/faqs/46239)
 
 ## Introduction
 
 Hello there! I'm Deathborn 668 on the message boards, and this is my FAQ for Pokémon FireRed/LeafGreen, newer versions of the olden R/B/Y days. I'm writing this since I have nothing better to do. Hope you enjoy this Walkthrough.
 
-### Do's and Don'ts of my FAQ
+**Do's and Don'ts of my FAQ**
 
 | Do                                      | Don't                     |
 | --------------------------------------- | ------------------------- |
@@ -20,157 +20,11 @@ Hello there! I'm Deathborn 668 on the message boards, and this is my FAQ for Pok
 | Print it out                            | Call this your own work   |
 | Give this to other people FOR NO CHARGE | Sell this for profit      |
 
-### Usage Permissions
+**Contact**
 
-ONLY the following sites are allowed to use my FAQ. Other sites need my permission first:
-
-- www.gamefaqs.com
-- www.gamespot.com
-- www.ign.com
-
-### Contact
-
-If you want to ask me something, or have found something new I don't have in my walkthrough, e-mail me at `someguy668 (at) yahoo (dot) com`
+If you want to ask me something, or have found something new I don't have in my walkthrough, e-mail me at [someguy668@yahoo.com](mailto:someguy668@yahoo.com)
 
 > I will not answer questions that can be found with a simple Ctrl+F search, and even if you do have a legit fix for my guide I likely won't respond anyway. Take no offense to it — I simply like not responding to most e-mails, and I may never update the guide out of sheer laziness.
-
----
-
-## Table of Contents
-
-- **I. General Info of the Game**
-  - I1. Controls
-  - I2. How Things Have Changed
-  - I3. Version-Exclusive and Eluding Pokemon
-  - I4. Pokemon Abilities
-  - I5. Specific Contact Moves
-  - I6. Soundproof Attacks
-  - I7. Status Effects
-  - I8. Status Conditions
-  - I9. Type Attack Chart
-  - I10. Nature Lists
-  - I11. Frequently Asked Questions
-- **II. Beginnings of Your Journey and the First Badge**
-  - II1. Pallet Town: Where the Shades of your Journey Await!
-  - II2. Gary Battle #1
-  - II3. Leaving Pallet Town
-  - II4. Viridian City - An Eternally Green Paradise
-  - II5. The PokeDex
-  - II6. To Viridian and Beyond!
-  - II7. Gary Battle #2
-  - II8. Viridian Forest
-  - II9. Pewter City: The Stone Grey City
-  - II10. Brock's Gym
-  - II11. The TM Case
-- **III. Of Speed, Greed, Crime, and Second Badge Time**
-  - III1. Speedy Shoes
-  - III2. A Magikarp Investment?
-  - III3. Mt. Moon Terror
-  - III4. Helix or Dome Fossils?
-  - III5. The Cerulean "Point of No Return"
-  - III6. Cerulean City - A Mysterious, Blue Aura Surrounds It
-  - III7. Gary Battle #3
-  - III8. Nugget Bridge
-  - III9. Route 24+25 - Via to Bill's House
-  - III10. Bill the Pokemaniac!
-- **IV. Partyless Boats, Slaves, and the Third Badge**
-  - IV1. Underground Path
-  - IV2. Vermilion City - The Port of Exquisite Sunsets
-  - IV3. S.S Anne - Cruise Ship of the World
-  - IV4. Gary Battle #4
-  - IV5. The Mew Delivery Truck
-  - IV6. The Useless HM 01 - Cut
-  - IV7. A Farfetch'd Solution
-  - IV8. Diglett's Cave
-  - IV9. A Once-Seen Trade?
-  - IV10. A "Flash"-back to Ugly Times
-  - IV11. A Short Pewter City Visit
-  - IV12. Last Few Trainers
-  - IV13. Vermillion City Gym
-- **V. There's Evil Afoot! And the Fourth Badge!**
-  - V1. Route 9 - En Route to Rock Tunnel
-  - V2. Rock Tunnel - The Path to Lavender
-  - V3. Lavender Town - The Noble Purple Town
-  - V4. Gary Battle #5
-  - V5. Underground Path 2 - Celedon City
-  - V6. Celedon City - The City of Rainbow Dreams
-  - V7. The Celedon Department Store
-  - V8. Game Freak's Pokemon Mansion
-  - V9. The Rocket Game Corner
-  - V10. How 'bout Them Security Camera's, Giovanni?
-  - V11. Celedon City Gym
-- **VI. The Long Road to Fuchsia City, Wherein Lies the Fifth Badge**
-  - VI1. Team Rocket Infestation of Pokemon Tower
-  - VI2. Two Roads to Fuchsia City
-  - VI3. The Downhill Ride of Cycling Road
-  - VI4. The Not So Quiet Silence Bridge
-  - VI5. Fuchsia City - Behold! It's Passion Pink!
-  - VI6. All You Can Capture! The Safari Zone!
-  - VI7. Fuchsia City Gym
-- **VII. Crossways of Kanto, More Schemes, and the Sixth Badge**
-  - VII1. The Mew Delivery Truck - Revisited
-  - VII2. Tea Snatchers
-  - VII3. Saffron City - Shining, Golden Land of Commerce
-  - VII4. Silph Co. Under Siege
-  - VII5. Gary Battle #6
-  - VII6. Giovanni Rematch
-  - VII7. The Master Ball
-  - VII8. Fighting Dojo
-  - VII9. Saffron City Gym
-- **VIII. Empty Mansions, Idiot Questions, and the Seventh Badge**
-  - VIII1. Visit Mom
-  - VIII2. Cinnabar Island - The Fiery Town of Burning Desire
-  - VIII3. Reviving Some Ancient Pokemon
-  - VIII4. The Pokemon Mansion Mysteries
-  - VIII5. Cinnabar Island Gym
-- **IX. Short Trip to the Final Badge**
-  - IX1. Huh?
-  - IX2. Viridian City Gym
-- **X. The "Victory" Road to Indigo Plateau**
-  - X1. Gary Battle #7
-  - X2. The Path to Victory Road
-  - X3. Victory Road
-- **XI. Indigo Plateau and the Elite 4**
-  - XI1. Elite 4 Lorelei
-  - XI2. Elite 4 Bruno
-  - XI3. Elite 4 Agatha
-  - XI4. Elite 4 Lance
-  - XI5. Champion Fight! Gary Battle #8
-  - XI6. The Credits and Afterwards
-- **XII. End of Game Bonuses**
-  - XII1. The Legendary Beasts
-  - XII2. Powdered Prizes
-  - XII3. Celedon City Rocket Game Corner
-  - XII4. Abandoned Power Plant
-  - XII5. Seafoam Islands
-  - XII6. Cerulean Cave
-  - XII7. Elite 4 Rematch
-- **XIII. The Sevii Islands Quest**
-  - XIII1. One Island - Friends Gather at Knot Island
-  - XIII2. Two Island - Boon Island for Two
-  - XIII3. Three Island - Kin Island of Family Bonding
-  - XIII4. Four Island - The Warm, Blue, Floe Island
-  - XIII5. Five Island - Chrono Island: Where Time Goes
-  - XIII6. Six Island - Fortune Island of Aged Wisdom
-  - XIII7. Seven Island - Quest Island of Infinity
-  - XIII8. Eight Island - Naval Rock
-  - XIII9. Nine Island - Birth Island
-- **XIV. Sevii Islands Bonuses**
-  - XIV1. Seven Island's Trainer Tower
-  - XIV2. Two Island's Wireless Game Corner
-  - XIV3. Six Island's Heracross Horn Contest
-  - XIV4. Six Island's Altering Cave
-- **XV. EV Training and IV Stats for Dummies**
-  - XV1. Stat Compensation
-  - XV2. Attack Usage
-  - XV3. How EV's are Used
-  - XV4. How IV's are Used
-  - XV5. The Nature Dilemma
-  - XV6. Items
-- **XVI. The Pokemon Attack Listings**
-- **XVII. Fame Checker**
-- **XVIII. Closing Words**
-- **XIX. Credits**
 
 ---
 
@@ -179,21 +33,6 @@ If you want to ask me something, or have found something new I don't have in my 
 As excited as any new player to a game may be, you might just jump off and start the game. However, if you're new to Pokemon it's wise to read this section to better understand how the game works. Returning players should also look here to see the differences between both versions of the game.
 
 ## I1. Controls
-
-Pokemon FireRed/LeafGreen, being a Game Boy Advance game, has very simple controls as there are few buttons on the GBA.
-
-> _GBA hardware illustration removed per request — see original FAQ for ASCII diagram._
-
-Here are the controls:
-
-| Button(s)                      | Actions                                                                                                                                                                                                                                                                                                                                                                                             |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Up/Down/Left/Right (D-Pad)** | The D-Pad is most used during the game. In the overworld it moves your character. In menus and in battle it moves the selection arrow.                                                                                                                                                                                                                                                              |
-| **A Button**                   | The A button does all sorts of actions. On the overworld, you use it to interact with other people, inspect objects or signs, and for selection menus. In battle and elsewhere, it is also generally used to confirm selections within menus. You will be using it all of the time.                                                                                                                 |
-| **B Button**                   | This button is used more often out of battle than in it. On the overworld, once you obtain the Running Shoes merely hold **B** to dash. It's as simple as that. On menus and in battle, you can use **B** to cancel a selection and return to the previous menu. Hold **B** to prevent a Pokemon from evolving.                                                                                     |
-| **L and R Buttons**            | These buttons can have several different effects depending on what control style you have the game set to. By default, pushing either of these buttons will bring up a help menu from which you can learn various things on the different situation you may be stuck in. On another setting, these buttons have the same function as the **A** button.                                              |
-| **Select**                     | The Select button is generally a convenience button. Once you have obtained Key Items, such as a Bicycle or a fishing Rod, you can select that item in the Bag menu and register the item to the Select button. Now, whenever you push Select you will use that item! Alternatively, you can use Select in the bag to highlight an item, and place it higher up in the bag for easier future usage. |
-| **Start**                      | ...and finally we have the Start button. There isn't much use for this button in the game. You use it to get past the title screen, and you use it to bring up the Start Menu on the overworld. That way you can save and view your current belongings.                                                                                                                                             |
 
 ---
 
@@ -255,55 +94,27 @@ The Pokemon Company wouldn't be The Pokemon Company for over 10 years if it didn
 
 ### I3.1 FireRed Exclusives
 
-| Pokémon    |
-| ---------- |
-| Arbok      |
-| Arcanine   |
-| Cloyster   |
-| Delibird   |
-| Ekans      |
-| Electabuzz |
-| Elekid     |
-| Gloom      |
-| Golduck    |
-| Growlithe  |
-| Murkrow    |
-| Oddish     |
-| Psyduck    |
-| Quagsire   |
-| Qwilfish   |
-| Scizor     |
-| Scyther    |
-| Shellder   |
-| Skarmory   |
-| Vileplume  |
-| Wooper     |
+| Pokémon   |           |            |
+| --------- | --------- | ---------- |
+| Arbok     | Arcanine  | Cloyster   |
+| Delibird  | Ekans     | Electabuzz |
+| Elekid    | Gloom     | Golduck    |
+| Growlithe | Murkrow   | Oddish     |
+| Psyduck   | Quagsire  | Qwilfish   |
+| Scizor    | Scyther   | Shellder   |
+| Skarmory  | Vileplume | Wooper     |
 
 ### I3.2 LeafGreen Exclusives
 
-| Pokémon    |
-| ---------- |
-| Azurill    |
-| Azumarill  |
-| Bellsprout |
-| Magby      |
-| Magmar     |
-| Mantine    |
-| Marill     |
-| Misdreavus |
-| Ninetales  |
-| Octillery  |
-| Pinsir     |
-| Remoraid   |
-| Slowbro    |
-| Slowking   |
-| Slowpoke   |
-| Sneasel    |
-| Starmie    |
-| Staryu     |
-| Weepinbell |
-| Victreebel |
-| Vulpix     |
+| Pokémon    |            |            |
+| ---------- | ---------- | ---------- |
+| Azurill    | Azumarill  | Bellsprout |
+| Magby      | Magmar     | Mantine    |
+| Marill     | Misdreavus | Ninetales  |
+| Octillery  | Pinsir     | Remoraid   |
+| Slowbro    | Slowking   | Slowpoke   |
+| Sneasel    | Starmie    | Staryu     |
+| Weepinbell | Victreebel | Vulpix     |
 
 ### I3.3 Starter-Dependent Roaming Legendary Beasts
 
@@ -323,546 +134,546 @@ Also beginning in Ruby/Sapphire were the addition of Abilities given to every la
 
 Here are the abilities:
 
-### Air Lock
+**Air Lock**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                      |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | All weather effects, such as Rain, Hail, Sandstorm, Sunny Day among others are cancelled out. This means that Solarbeam still takes 2 turns to charge, Thunder can miss in rain, and boost in power is negated as well as other abilities that are dependent on the weather (Swift Swim doesn't work, etc.). |
 | **Learned By** | Rayquaza                                                                                                                                                                                                                                                                                                     |
 
-### Arena Trap
+**Arena Trap**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | The opposing Pokemon cannot flee from the battle or switch out unless they either possess the ability Levitate or are part Flying type. Otherwise, the only way to switch is by the use of the attack Baton Pass, being fainted, killing the Pokemon with this ability, or having the opposing Pokemon be switched out (either manually or forced by attacks such as Whirlwind). |
 | **Learned By** | Diglett, Dugtrio, Trapinch                                                                                                                                                                                                                                                                                                                                                       |
 
-### Battle Armor
+**Battle Armor**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                           |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | No matter what the condition setting is, it is impossible for the opposing Pokemon to score a critical hit on a Pokemon with this ability. This holds true even if conditions state there is over a 100% chance of getting a Critical Hit (through the use of items and high Critical Hit attacks such as Slash). |
 | **Learned By** | Anorith, Armaldo, Kabuto, Kabutops                                                                                                                                                                                                                                                                                |
 
-### Blaze
+**Blaze**
 
 | Field          | Details                                                                                                                                                                                                                                         |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When a Pokemon with this ability has 1/3 or less of its HP remaining, this Pokemon will receive 150% power boost in attacks that are Fire-types. Same Type Attack Boost and other multipliers still take place in addition with the 150% boost. |
 | **Learned By** | Charmander, Charmeleon, Charizard, Cyndaquil, Quilava, Typhlosion, Torchic, Combusken, Blaziken                                                                                                                                                 |
 
-### Cacophony
+**Cacophony**
 
 | Field          | Details                                                                                                                                                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | Any type of sound move (see the section that lists these types of moves) won't work against the Pokemon with this ability. All other effects the attack may have had will also be negated. _Note: Like Soundproof — see Soundproof Attacks section._ |
 | **Learned By** | Nobody — this ability can only be found with cheat devices. It works exactly like Soundproof. Either they changed it and kept it encrypted or it will be used in the future in Diamond/Pearl. It is unknown as of now.                               |
 
-### Chlorophyll
+**Chlorophyll**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                                                       |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When the attack Sunny Day, or any type of strong sunlight, is activated in battle then this ability will activate. For every turn that passes with strong sunlight, the speed of any Pokemon with this ability in battle will increase. This, however, doesn't mean it goes up 1 level — so you can still use Speed increasing moves 6 times. |
 | **Learned By** | Oddish, Gloom, Vileplume, Bellossom, Exeggcute, Exeggutor, Hoppip, Skiploom, Jumpluff, Sunkern, Sunflora, Tropius, Seedot, Nuzleaf, Shiftry, Bellsprout, Weepinbell, Victreebel, Tangela                                                                                                                                                      |
 
-### Clear Body
+**Clear Body**
 
 | Field          | Details                                                                                                                                                                                                                                                                              |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | This ability completely makes the effects of any attack that lowers stats useless. This also includes any abilities that lower stats, such as Intimidate. Attacks that have a chance of lowering stats are at 0% (it's impossible for Psychic to lower Special Defense for example). |
 | **Learned By** | Beldum, Metang, Metagross, Tentacool, Tentacruel, Regirock, Registeel, Regice                                                                                                                                                                                                        |
 
-### Cloud Nine
+**Cloud Nine**
 
 | Field          | Details                                                                                                                                                                                                                                                                                       |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | This ability functions exactly like Air Lock. All weather effects are completely cancelled out. Even with Sunny Day, there is no Fire-type attack boost, Thunder doesn't have lower accuracy, and Solarbeam still takes 2 turns to charge up. This also applies to all other weather effects. |
 | **Learned By** | Psyduck, Golduck                                                                                                                                                                                                                                                                              |
 
-### Color Change
+**Color Change**
 
 | Field          | Details                                                                                                                                                                                                 |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When the Pokemon with this ability is hit with an attack, its current Type is changed to the type it was hit by. (A Normal type hit by Flamethrower would now be Fire type for the rest of the battle). |
 | **Learned By** | Kecleon                                                                                                                                                                                                 |
 
-### Compound Eyes
+**Compound Eyes**
 
 | Field          | Details                                                                                                                                                                                                                                 |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | The Accuracy rate of all attacks, under any type of circumstance, is raised by 130%. This ability remains the same even when accuracy lowering attacks are used. 130% is added AFTER the accuracy decrease/increase is put into effect. |
 | **Learned By** | Butterfree, Nincada, Yanma, Venonat, Venomoth                                                                                                                                                                                           |
 
-### Cute Charm
+**Cute Charm**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When the Pokemon with this ability is hit with a contact move (see future section "Specific Contact Moves" for more information), and the Pokemon is the opposite gender of the foe, then there is a 30% chance that the opposing Pokemon will get infatuated. This is the same effect that the attack Attract will give. Pokemon under this condition have a 50% chance of attacking. |
 | **Learned By** | Cleffa, Clefairy, Clefable, Skitty, Delcatty, Igglybuff, Jigglypuff, Wigglytuff                                                                                                                                                                                                                                                                                                        |
 
-### Damp
+**Damp**
 
 | Field          | Details                                                                                                         |
 | -------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | It is impossible for the Pokemon with this ability, or the opposing Pokemon, to use Self-Destruct or Explosion. |
 | **Learned By** | Wooper, Quagsire, Poliwag, Poliwhirl, Poliwrath, Politoed, Psyduck, Golduck                                     |
 
-### Drizzle
+**Drizzle**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                                                                           |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When a Pokemon with this ability is sent into battle, it instantly begins to rain as if Rain Dance was just used. Unlike that attack, Drizzle's effect will last the entire battle unless another weather attack such as Sunny Day, Hail, etc. or a Pokemon with the ability Drought or Sand Stream is brought into battle. All effects of Rain Dance apply here. |
 | **Learned By** | Kyogre                                                                                                                                                                                                                                                                                                                                                            |
 
-### Drought
+**Drought**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When a Pokemon with this ability is sent into battle, it will make the sun shine hard as if Sunny Day was just used. Unlike that attack, Drought's effect will last the entire battle unless another weather attack such as Rain Dance, Hail, etc. or a Pokemon with the ability Drizzle or Sand Stream is brought into battle. All effects of Sunny Day apply here. |
 | **Learned By** | Groudon                                                                                                                                                                                                                                                                                                                                                              |
 
-### Early Bird
+**Early Bird**
 
 | Field          | Details                                                                                                                                                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When a Pokemon with this ability is under the status effect Sleep, the Pokemon will wake up faster than it normally would. Sleep time is reduced 50%, rounded up to the nearest whole number. Sleep can last anywhere from 1–3 turns this way, instead of 2–5 turns. |
 | **Learned By** | Seedot, Nuzleaf, Shiftry, Doduo, Dodrio, Girafarig, Houndour, Houndoom, Kangaskhan, Natu, Xatu, Ledyba, Ledian                                                                                                                                                       |
 
-### Effect Spore
+**Effect Spore**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When a Pokemon attacks a Pokemon with this ability with a contact attack (see the future "Specific Contact Moves" section for more information), then there is a 30% chance that the Pokemon who attacked will be inflicted with Sleep, Poison, or Paralysis until later healed. All effects of these Status Effects remain the same as in any other battle condition. |
 | **Learned By** | Paras, Parasect, Shroomish, Breloom                                                                                                                                                                                                                                                                                                                                    |
 
-### Flame Body
+**Flame Body**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                                                                                              |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | When a Pokemon with this ability is hit by a contact attack (see the future "Specific Contact Moves" section for more information), there is a 30% chance that the attacking Pokemon will be inflicted with the Burn condition. All effects Burn causes still apply. Also, out of battle if a Pokemon with this ability is in your party, then Egg hatching time takes half as long. |
 | **Learned By** | Magby, Magmar, Slugma, Magcargo                                                                                                                                                                                                                                                                                                                                                      |
 
-### Flash Fire
+**Flash Fire**
 
 | Field          | Details                                                                                                                                                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When a Fire-type attack is used on this Pokemon, instead of getting damaged this ability will activate. Flash Fire makes all Fire-type attacks deal 150% damage than normal. Other multipliers, including that of Same Type Attack Bonus and Weaknesses still apply. |
 | **Learned By** | Vulpix, Ninetales, Houndour, Houndoom, Growlithe, Arcanine, Ponyta, Rapidash, Flareon                                                                                                                                                                                |
 
-### Forecast
+**Forecast**
 
 | Field          | Details                                                                                                                                                                                                                                                      |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | The type of the Pokemon with this ability changes depending on the current weather condition. No weather = Normal, Hail = Ice, Rain Dance = Water, Sunny Day = Fire. The weather pattern Sandstorm does NOT change the type of the Pokemon and WILL hurt it. |
 | **Learned By** | Castform                                                                                                                                                                                                                                                     |
 
-### Guts
+**Guts**
 
 | Field          | Details                                                                                                                                                                                                                                                          |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | If the Pokemon with this ability is inflicted with any type of Status Effect other than Freeze or Sleep, then the Pokemon's Attack stat rises by 150%. This effect goes away if Status Effect disappears. Attack raising moves can still be used up to 6 levels. |
 | **Learned By** | Machop, Machoke, Machamp, Rattata, Raticate, Taillow, Swellow, Makuhita, Hariyama, Ursaring, Heracross, Ursaring                                                                                                                                                 |
 
-### Huge Power
+**Huge Power**
 
 | Field          | Details                                                                                                                                                                                                                                      |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | The Attack stat is doubled in battle. Should this ability come under the spell Skill Swap, then attack will return to normal. Attack raising moves will still work up to the default 6 levels and such applies backwards for lowering stats. |
 | **Learned By** | Azurill, Marill, Azumarill                                                                                                                                                                                                                   |
 
-### Hustle
+**Hustle**
 
 | Field          | Details                                                                                                                                                                                                                            |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | A simple Pro/Con ability. Pokemon with this ability have all damage given multiplied by 150%. However in return, Accuracy of all moves is multiplied by 80%. Generally this can lead to powerful yet miss-and-die type situations. |
 | **Learned By** | Remoraid, Corsola, Delibird, Togepi, Togetic                                                                                                                                                                                       |
 
-### Hyper Cutter
+**Hyper Cutter**
 
 | Field          | Details                                                                                                                                                                                                                                                                             |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | The Attack stat of this Pokemon cannot be lowered under any means whether by moves from the foe or moves from the user with Attack lowering side effects. The only exception is from the move Haze which will reset the Attack to its original status, but not "truly" lowering it. |
 | **Learned By** | Pinsir, Gligar, Corphish, Crawdaunt, Mawile, Trapinch, Krabby, Kingler                                                                                                                                                                                                              |
 
-### Illuminate
+**Illuminate**
 
 | Field          | Details                                                                                                                                                                                                                       |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | If a Pokemon bearing this ability is in the lead position of your party, then the chances of finding wild Pokemon will increase. The valid amount depends on your location and probability of finding a Pokemon in that area. |
 | **Learned By** | Volbeat, Staryu, Starmie, Chinchou, Lantern                                                                                                                                                                                   |
 
-### Immunity
+**Immunity**
 
 | Field          | Details                                                          |
 | -------------- | ---------------------------------------------------------------- |
 | **Effect**     | It is impossible for a Pokemon with this ability to be Poisoned. |
 | **Learned By** | Snorlax, Zangoose                                                |
 
-### Inner Focus
+**Inner Focus**
 
 | Field          | Details                                                                                                                                                       |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | It is impossible, no matter what circumstance, for the Pokemon with this ability to flinch. This includes moves that always cause flinching such as Fake Out. |
 | **Learned By** | Abra, Kadabra, Alakazam, Girafarig, Snorunt, Glalie, Zubat, Golbat, Crobat, Farfetch'd, Dragonite, Sneasel                                                    |
 
-### Insomnia
+**Insomnia**
 
 | Field          | Details                                                                                                                                                          |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | It is impossible, no matter what circumstance, for the Pokemon with this ability to be Sleeping. This even includes the move Rest and other Sleep-forcing moves. |
 | **Learned By** | Hoothoot, Noctowl, Shuppet, Banette, Spinarak, Ariados, Drowzee, Hypno, Murkrow                                                                                  |
 
-### Intimidate
+**Intimidate**
 
 | Field          | Details                                                                                                                                                                                                                                                               |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | Any opposing Pokemon that faces a Pokemon that holds this ability will have their Attack stat dropped one level. This stat change will not occur if the opposing Pokemon is holding the item White Herb, or has the ability Clear Body, Hyper Cutter, or White Smoke. |
 | **Learned By** | Mightyena, Salamence, Mawile, Gyarados, Hitmontop, Masquerain, Arcanine, Ekans, Arbok, Snubbull, Granbull, Stantler, Tauros                                                                                                                                           |
 
-### Keen Eye
+**Keen Eye**
 
 | Field          | Details                                                                                                                                                                                                                      |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | It is impossible, no matter what the circumstance, for the Pokemon with this ability to have its Accuracy be lowered. However, it is possible to raise the accuracy of this Pokemon with the appropriate attacks that do so. |
 | **Learned By** | Sentret, Furret, Spearow, Fearow, Hoothoot, Noctowl, Skarmory, Wingull, Pelipper, Farfetch'd, Sneasel, Sableye, Pidgey, Pidgeotto, Pidgeot, Hitmonchan                                                                       |
 
-### Levitate
+**Levitate**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | All Ground-type attacks will fail to hit a Pokemon with this ability. Levitate acts as a substitute Flying type on a Pokemon, however they do not share a weakness with Flying types unless the Type of Pokemon says so. (A Latios with Levitate will not get Super Effective hits if a foe uses Thunder for example). |
 | **Learned By** | Latios, Latias, Duskull, Unown, Gastly, Haunter, Gengar, Misdreavus, Vibrava, Flygon, Koffing, Weezing, Chimecho, Lunatone, Solrock, Baltoy, Claydol                                                                                                                                                                   |
 
-### Lightning Rod
+**Lightning Rod**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                    |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | In a 2-on-2 battle, any Electric-type attack will be forced to target the Pokemon with this ability, even if the trainer chose otherwise. It doesn't matter if the attack would hit just that one Pokemon or both — the entire attack is forced to this Pokemon (obviously only useful with Ground-types). |
 | **Learned By** | Rhydon, Rhyhorn, Cubone, Marowak, Electrike, Manectric                                                                                                                                                                                                                                                     |
 
-### Limber
+**Limber**
 
 | Field          | Details                                                                                             |
 | -------------- | --------------------------------------------------------------------------------------------------- |
 | **Effect**     | It is impossible, no matter what the circumstance, for a Pokemon with this ability to be Paralyzed. |
 | **Learned By** | Persian, Ditto, Hitmonlee                                                                           |
 
-### Liquid Ooze
+**Liquid Ooze**
 
 | Field          | Details                                                                                                                                                                                                                                                             |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | Whenever HP is absorbed from the Pokemon with this ability (through attacks such as Absorb, Giga Drain, etc.), the attacking Pokemon loses the HP that it would have gained from the attack. The Pokemon with this ability is still harmed from the attack however. |
 | **Learned By** | Tentacool, Tentacruel, Gulpin, Swalot                                                                                                                                                                                                                               |
 
-### Magma Armor
+**Magma Armor**
 
 | Field          | Details                                                                                                                                                                                       |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | It is impossible, no matter what the circumstance, for a Pokemon with this ability to be Frozen. Also, out of battle having this Pokemon in your party reduces hatching time of Eggs in half. |
 | **Learned By** | Slugma, Magcargo, Camerupt                                                                                                                                                                    |
 
-### Magnet Pull
+**Magnet Pull**
 
 | Field          | Details                                                                                                                                                                                                |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | When a Pokemon with this ability is in battle, and the opposing Pokemon is of the Steel type, then they cannot switch out until the Pokemon with Magnet Pull is defeated or said Pokemon switches out. |
 | **Learned By** | Magnemite, Magneton, Nosepass                                                                                                                                                                          |
 
-### Marvel Scale
+**Marvel Scale**
 
 | Field          | Details                                                                                                                                                                                   |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When the Pokemon with this ability is inflicted with any type of Status Effect that disables it, then the Pokemon's Defense stat is multiplied by 150% until said Status Effect is cured. |
 | **Learned By** | Milotic                                                                                                                                                                                   |
 
-### Minus
+**Minus**
 
 | Field          | Details                                                                                                                                                                                                            |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | If a Pokemon with the Plus ability is also present when the Pokemon with the Minus ability is in a 2-on-2 battle, then both Pokemon receive a 150% multiplied increase in their Special Attack stats respectively. |
 | **Learned By** | Minun                                                                                                                                                                                                              |
 
-### Natural Cure
+**Natural Cure**
 
 | Field          | Details                                                                                                                                                                                          |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | When the Pokemon with this ability is switched back into your party (for another Pokemon to be placed on the battlefield), all Special Conditions such as Burn, Sleep, etc. are instantly cured. |
 | **Learned By** | Celebi, Chansey, Blissey, Swablu, Altaria, Roselia, Staryu, Starmie, Corsola                                                                                                                     |
 
-### Oblivious
+**Oblivious**
 
 | Field          | Details                                                                                                                                                             |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | It is impossible, no matter what circumstance, for this Pokemon to be under the Special Condition "Infatuated" at any time in the battle (from the attack Attract). |
 | **Learned By** | Slowpoke, Slowbro, Slowking, Smoochum, Jynx, Barboach, Whiscash, Numel, Lickitung, Wailmer, Wailord, Illumise, Swinub, Piloswine                                    |
 
-### Overgrow
+**Overgrow**
 
 | Field          | Details                                                                                                                                                                                                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When a Pokemon that has this ability has its current HP at 1/3 or less its maximum amount, then all Grass-type moves get a bonus 150% multiplier added to their respective attacks. This ability can still be combined with Special Attack raising moves, STAB, and other multipliers as well. |
 | **Learned By** | Bulbasaur, Ivysaur, Venusaur, Chikorita, Bayleef, Meganium, Treeko, Grovyle, Sceptile                                                                                                                                                                                                          |
 
-### Own Tempo
+**Own Tempo**
 
 | Field          | Details                                                                                                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | It is impossible for Pokemon with this ability to be Confused. This also includes attacks that confuse the user (such as Thrash and Outrage). The user cannot confuse themselves with those attacks. |
 | **Learned By** | Spinda, Slowpoke, Slowbro, Slowking, Spoink, Grumpig, Smeargle, Lickitung                                                                                                                            |
 
-### Pickup
+**Pickup**
 
 | Field          | Details                                                                                                                                                                                                    |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | After a wild Pokemon battle in the overworld, a Pokemon with this ability may be holding an item. The higher level the Pokemon with this ability is, the better and rarer items you may be able to obtain. |
 | **Learned By** | Zigzagoon, Linoone, Meowth, Phanpy, Aipom, Teddiursa                                                                                                                                                       |
 
-### Plus
+**Plus**
 
 | Field          | Details                                                                                                                                                                                                                              |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | When a Pokemon with the Minus ability is also present in battle in a 2-on-2 fight, then both Pokemon will receive a 150% power boost to their Special Attack stat for the remainder of the battle unless one faints or switches out. |
 | **Learned By** | Plusle                                                                                                                                                                                                                               |
 
-### Poison Point
+**Poison Point**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                                                          |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | When any type of contact move (see the future section "Specific Contact Moves" for more information) is used on this Pokemon, then there is a 30% chance that the attacker will get Poisoned. This effect will not happen if the attacking Pokemon already has a status effect, or has the ability Immunity, or an item that prevents poisoning. |
 | **Learned By** | Seadra, Qwilfish, Roselia, Nidoran♂, Nidoran♀, Nidorino, Nidorina, Nidoking, Nidoqueen                                                                                                                                                                                                                                                           |
 
-### Pressure
+**Pressure**
 
 | Field          | Details                                                                                                                                                                                                                                 |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When any kind of move is used on this Pokemon (or even the enemy Pokemon itself such as Swords Dance), then the user is pressured into wasting 2 PP instead of 1. Stat-reduction Abilities and items don't prevent this from occurring. |
 | **Learned By** | Suicune, Raikou, Entei, Moltres, Articuno, Zapdos, Mewtwo, Dusclops, Absol, Lugia, Ho-Oh, Deoxys, Aerodactyl                                                                                                                            |
 
-### Pure Power
+**Pure Power**
 
 | Field          | Details                                                                                                                                                                                                 |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | This ability is similar to Huge Power. The attack stat is doubled in battle. Should this ability get Skill Swapped, Attack power returns to normal. Attack stat can still be upped or lowered 6 levels. |
 | **Learned By** | Meditite, Medicham                                                                                                                                                                                      |
 
-### Rain Dish
+**Rain Dish**
 
 | Field          | Details                                                                                                                                                                                                                                               |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | If any type of rain is falling, whether it be from Rain Dance or the ability Drizzle, then the Pokemon with this ability will recover 1/16th of its HP every passing turn until rain has either subsided or is cancelled out by another weather move. |
 | **Learned By** | Lotad, Lombre, Ludicolo                                                                                                                                                                                                                               |
 
-### Rock Head
+**Rock Head**
 
 | Field          | Details                                                                                                                                                                                                                                                           |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | Regardless of what attacks this Pokemon makes, it will NEVER suffer recoil damage (Submission, Take Down, etc.). The only exception to this ability is Struggle (when all PP has been exhausted). Struggle will make the user of this ability take recoil damage. |
 | **Learned By** | Aerodactyl, Onix, Steelix, Sudowoodo, Cubone, Marowak, Geodude, Graveler, Golem, Aron, Lairon, Aggron, Rhyhorn, Rhydon, Relicanth, Bagon, Shelgon                                                                                                                 |
 
-### Rough Skin
+**Rough Skin**
 
 | Field          | Details                                                                                                                                                                                                       |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | Whenever a Pokemon with this ability is hit by a contact attack (see the future section "Specific Contact Attacks" for more information), then the Pokemon who attacked will lose 1/16th of their maximum HP. |
 | **Learned By** | Carvanha, Sharpedo                                                                                                                                                                                            |
 
-### Run Away
+**Run Away**
 
 | Field          | Details                                                                                                                                                                                                                                                                                                                                                      |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | Out of battle effect of this ability is that this Pokemon is always able to run away from a fight, regardless of level, ability of the other Pokemon or what item they're holding. In a normal battle, this Pokemon can switch out even if the other Pokemon's ability states otherwise / used Mean Look or Spider Web / has an item preventing switch-outs. |
 | **Learned By** | Rattata, Raticate, Ponyta, Rapidash, Doduo, Dodrio, Sentret, Furret, Eevee, Snubbull, Poochyena, Aipom, Dunsparce                                                                                                                                                                                                                                            |
 
-### Sand Stream
+**Sand Stream**
 
 | Field          | Details                                                                                                                                                                                                                                                                                             |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When this Pokemon is brought into battle, it instantly begins to make a sandstorm. Unlike the attack Sandstorm, this weather effect will last the entire battle unless another weather attack such as Rain Dance, Hail, etc. or a Pokemon with the Drizzle or Drought ability is brought into play. |
 | **Learned By** | Tyranitar                                                                                                                                                                                                                                                                                           |
 
-### Sand Veil
+**Sand Veil**
 
 | Field          | Details                                                                                                                                                                                                                                                                          |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | Any Pokemon with this ability has increased evasion in a sandstorm. However, evasion can still be lowered 6 levels. Also, attacks lowering evasion don't affect this ability. Pokemon that aren't Rock, Ground, or Steel types with this ability are immune to sandstorm damage. |
 | **Learned By** | Sandshrew, Sandslash, Diglett, Dugtrio, Cacnea, Cacturne, Gligar                                                                                                                                                                                                                 |
 
-### Serene Grace
+**Serene Grace**
 
 | Field          | Details                                                                                                                                                                                                                                  |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | Any type of attack that has a possibility of a special effect, a Pokemon with this ability doubles the percentage of that effect occurring (a Serene Grace Pokemon uses Ice Beam — it has a 20% chance of freezing instead of just 10%). |
 | **Learned By** | Jirachi, Dunsparce, Togepi, Togetic, Chansey, Blissey                                                                                                                                                                                    |
 
-### Shadow Tag
+**Shadow Tag**
 
 | Field          | Details                                                                                             |
 | -------------- | --------------------------------------------------------------------------------------------------- |
 | **Effect**     | It's impossible for the opposing Pokemon to switch out. However, they CAN use Baton Pass to switch. |
 | **Learned By** | Wynaut, Wobbuffet                                                                                   |
 
-### Shed Skin
+**Shed Skin**
 
 | Field          | Details                                                                                                                                                                                      |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | After all Pokemon have finished attacking, there is a 33.3% chance that a Pokemon with this ability will lose any Status Effect that has been inflicted upon it (Poison, Burn, Sleep, etc.). |
 | **Learned By** | Ekans, Arbok, Metapod, Kakuna, Dratini, Dragonair, Pupitar, Seviper, Cascoon, Silcoon                                                                                                        |
 
-### Shell Armor
+**Shell Armor**
 
 | Field          | Details                                                                                                                                  |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | It is impossible, even with abilities and items that there is a 100%+ chance, for a Pokemon with this ability to receive a Critical Hit. |
 | **Learned By** | Lapras, Shellder, Cloyster, Corphish, Crawdaunt, Krabby, Kingler, Clamperl, Omanyte, Omastar                                             |
 
-### Shield Dust
+**Shield Dust**
 
 | Field          | Details                                                                                                                                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | All attacks that are used against this Pokemon that have a percentage chance of a bonus effect are set to 0% (a Pokemon uses Ice Beam against a Pokemon with this ability — it will NEVER freeze them as it's at 10%). |
 | **Learned By** | Wurmple, Dustox, Weedle, Venomoth, Caterpie                                                                                                                                                                            |
 
-### Soundproof
+**Soundproof**
 
 | Field          | Details                                                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | Any attack that is sound based will not work against a Pokemon with this ability. (See the future section "Soundproof Attacks" for more information) |
 | **Learned By** | Whismur, Loudred, Exploud, Voltorb, Electrode, Mr. Mime                                                                                              |
 
-### Speed Boost
+**Speed Boost**
 
 | Field          | Details                                                                                         |
 | -------------- | ----------------------------------------------------------------------------------------------- |
 | **Effect**     | After all Pokemon have taken their moves, a Pokemon with this ability will have its speed rise. |
 | **Learned By** | Yanma, Ninjask                                                                                  |
 
-### Static
+**Static**
 
 | Field          | Details                                                                                                                                                                                                                                                                      |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When a Pokemon uses a contact move (see the future section "Specific Contact Moves" for more information) on a Pokemon with this ability, then there is a 30% chance of the attacking Pokemon becoming Paralyzed. Pokemon with the ability Limber are immune to this effect. |
 | **Learned By** | Pichu, Pikachu, Raichu, Voltorb, Electrode, Elekid, Electabuzz, Electrike, Manectric, Mareep, Flaaffy, Ampharos                                                                                                                                                              |
 
-### Stench
+**Stench**
 
 | Field          | Details                                                                                                  |
 | -------------- | -------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When this Pokemon is in the lead position in your party, then you are less likely to fight wild Pokemon. |
 | **Learned By** | Grimer, Muk                                                                                              |
 
-### Sticky Hold
+**Sticky Hold**
 
 | Field          | Details                                                                                                                                            |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | It is impossible, regardless of any attack the opposing Pokemon uses, for a Pokemon with this ability to have its held item knocked off or stolen. |
 | **Learned By** | Grimer, Muk, Gulpin, Swalot                                                                                                                        |
 
-### Sturdy
+**Sturdy**
 
 | Field          | Details                                                                                                                                                 |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | It is impossible for this Pokemon to get hurt by a One-Hit-KO move (Horn Drill, Fissure, etc.).                                                         |
 | **Learned By** | Sudowoodo, Aron, Lairon, Aggron, Skarmory, Donphan, Nosepass, Shuckle, Geodude, Graveler, Golem, Onix, Steelix, Pineco, Forretress, Magnemite, Magneton |
 
-### Suction Cups
+**Suction Cups**
 
 | Field          | Details                                                                                   |
 | -------------- | ----------------------------------------------------------------------------------------- |
 | **Effect**     | Any attack that forces switch (Roar/Whirlwind) fails against a Pokemon with this ability. |
 | **Learned By** | Octillery, Lileep, Cradily                                                                |
 
-### Swarm
+**Swarm**
 
 | Field          | Details                                                                                                                                                                                                         |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When the maximum HP of a Pokemon with this ability is under 1/3rd its highest amount, then all Bug type moves will deal 150% more damage than normal. This ability adds on to other multipliers that can occur. |
 | **Learned By** | Heracross, Scyther, Scizor, Spinarak, Ariados, Beedrill, Ledyba, Ledian, Volbeat, Beautifly                                                                                                                     |
 
-### Swift Swim
+**Swift Swim**
 
 | Field          | Details                                                                                                                                                                                                                               |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When rainy weather is in play (either from the attack Rain Dance or the ability Drizzle), then any Pokemon that has this ability will have their speed rise after the turn ends. However, Speed can still be increased up to 6 times. |
 | **Learned By** | Kabuto, Kabutops, Goldeen, Seaking, Magikarp, Luvdisc, Feebas, Horsea, Kingdra, Omanyte, Omastar, Clamperl, Gorebyss, Huntail, Lotad, Lombre, Ludicolo, Surskit, Relicanth, Qwilfish, Mantine                                         |
 
-### Synchronize
+**Synchronize**
 
 | Field          | Details                                                                                                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When a Pokemon with this ability is either Burned, Poisoned, or Paralyzed, then the opposing Pokemon is also given the same Status Effect. Naturally, Fire-types can't be burned and Poison-types can't be poisoned. |
 | **Learned By** | Ralts, Kirlia, Gardevoir, Abra, Kadabra, Alakazam, Espeon, Umbreon, Mew, Natu, Xatu                                                                                                                                  |
 
-### Thick Fat
+**Thick Fat**
 
 | Field          | Details                                                                                                                        |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | All Fire and Ice-type moves only deal 50% of the damage they would have normally inflicted on a Pokemon that has this ability. |
 | **Learned By** | Makuhita, Hariyama, Azurill, Marill, Azumarill, Seel, Dewgong, Spheal, Sealeo, Walrein, Spoink, Grumpig, Snorlax, Miltank      |
 
-### Torrent
+**Torrent**
 
 | Field          | Details                                                                                                                                                                                                                      |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When the current HP of a Pokemon with this ability is less than 1/3rd of their maximum amount, then this Pokemon gets a 150% power boost in all Water-type attacks. This multiplier can still be stacked with other bonuses. |
 | **Learned By** | Squirtle, Wartortle, Blastoise, Totodile, Croconaw, Feraligatr, Mudkip, Marshtomp, Swampert                                                                                                                                  |
 
-### Trace
+**Trace**
 
 | Field          | Details                                                                                                                                                                                  |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | The Pokemon with this ability copies the ability of the opposing Pokemon until either recalled or fainted. Once this Pokemon has done either of those, its ability resets back to Trace. |
 | **Learned By** | Porygon, Porygon2, Ralts, Kirlia, Gardevoir                                                                                                                                              |
 
-### Truant
+**Truant**
 
 | Field          | Details                                      |
 | -------------- | -------------------------------------------- |
 | **Effect**     | This Pokemon cannot attack every other turn. |
 | **Learned By** | Slakoth, Slaking                             |
 
-### Vital Spirit
+**Vital Spirit**
 
 | Field          | Details                                                                                                                              |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | It is impossible for this Pokemon to fall asleep whether by items or attacks. This Pokemon can't put itself to sleep by Rest either. |
 | **Learned By** | Vigoroth, Mankey, Primeape, Delibird                                                                                                 |
 
-### Volt Absorb
+**Volt Absorb**
 
 | Field          | Details                                                                                                                                     |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When an Electric-type attack is used against a Pokemon with this ability, the Pokemon is healed 1/4th its maximum HP instead of losing any. |
 | **Learned By** | Jolteon, Chinchou, Lantern                                                                                                                  |
 
-### Water Absorb
+**Water Absorb**
 
 | Field          | Details                                                                                                                                 |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | When a Water-type attack is used against a Pokemon with this ability, the Pokemon is healed 1/4th its maximum HP instead of losing any. |
 | **Learned By** | Poliwag, Poliwhirl, Poliwrath, Politoed, Mantine, Lapras, Wooper, Quagsire, Vaporeon                                                    |
 
-### Water Veil
+**Water Veil**
 
 | Field          | Details                                         |
 | -------------- | ----------------------------------------------- |
 | **Effect**     | It is impossible for this Pokemon to be Burned. |
 | **Learned By** | Wailmer, Wailord, Goldeen, Seaking              |
 
-### White Smoke
+**White Smoke**
 
 | Field          | Details                                                                                                                                    |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Effect**     | All abilities and attacks that raise or lower stats (such as Intimidate or Leer) don't work when used against a Pokemon with this ability. |
 | **Learned By** | Torkoal                                                                                                                                    |
 
-### Wonder Guard
+**Wonder Guard**
 
 | Field          | Details                                                                                                                                                     |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effect**     | This Pokemon is completely invincible to all attacks except Super Effective hits. Attacks like Spikes, Sandstorm, and the like will still hit this Pokemon. |
 | **Learned By** | Shedinja                                                                                                                                                    |
 
-### ------- (No Ability)
+**------- (No Ability)**
 
 | Field          | Details                                                                                                      |
 | -------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -886,7 +697,7 @@ Believe it or not, there IS a difference between connecting with the Pokemon (ba
 
 > Knowing this, here are all contact moves:
 
-### Full List of Contact Moves
+### I5.1 Full List of Contact Moves
 
 |              |               |              |              |               |
 | ------------ | ------------- | ------------ | ------------ | ------------- |
@@ -918,7 +729,7 @@ Believe it or not, there IS a difference between connecting with the Pokemon (ba
 
 In case you missed it, there is an ability called **Soundproof** and several Pokemon can learn it. It negates all sound-based attacks — they don't affect the Pokémon and deal no damage. The ability **Cacophony** (cheat-device only) works **exactly** like Soundproof; why it was never included is unknown (renamed/leftover for Diamond/Pearl).
 
-### All Sound-Based Attacks
+### I6.1 All Sound-Based Attacks
 
 |              |       |           |      |             |             |
 | ------------ | ----- | --------- | ---- | ----------- | ----------- |
@@ -946,57 +757,57 @@ One of the most annoying but strategic aspects of Pokémon are Status Effects. T
 
 Special Conditions (volatile) are like Status Effects but **stack**, are **not permanent**, and all wear off after battle or when switched out/fainted. They can be layered to completely hinder a Pokémon.
 
-### Confused
+<u>**Confused**</u>
 
 - **Effect:** 50% chance to attack normally, 50% to hit self (damage based on Attack stat).
 - **Causes:** Supersonic, Confuse Ray, Swagger, Flatter (guaranteed); Psybeam, Psychic, Confusion etc. (~10% chance). Wears off after several turns or on switch.
 
-### Flinched
+<u>**Flinched**</u>
 
 - **Effect:** Take damage but lose your turn. Only the Pokémon that moves **first** can cause a flinch.
 - **Causes:** King's Rock (chance on any attack), Fake Out, Headbutt, Sky Attack, Rock Slide, Needle Arm, Astonish, Extrasensory, Bite, etc.
 
-### Disabled
+<u>**Disabled**</u>
 
 - **Effect:** Last move the target used is disabled for several turns; cannot use it.
 - **Notes:** Only one move disabled at a time; fails if target hasn't moved yet. Move: **Disable**.
 
-### Attracted (Infatuated)
+<u>**Attracted (Infatuated)**</u>
 
 - **Effect:** 50% chance to attack vs. sit drooling. Only works if target is opposite gender (same gender/genderless immune).
 - **Cause:** **Attract**; ability **Cute Charm** can inflict. Switch out to cure.
 
-### Encored
+<u>**Encored**</u>
 
 - **Effect:** Forced to repeat last move for 2–6 turns unless switched. Useless if target hasn't moved or holds Focus Band.
 - **Cause:** **Encore**.
 
-### Trapped
+<u>**Trapped**</u>
 
 - **Effect:** Cannot escape or switch.
 - **Causes:** Mean Look / Spider Web ( lasts until user faints), Arena Trap / Shadow Tag abilities, Magnet Pull vs. Steel types, Bind / Fire Spin / Wrap / Whirlpool / Sand Tomb / Ingrain (several turns). _Note: Arena Trap fails vs. Levitate, Run Away, or Flying types._
 
-### Cursed
+<u>**Cursed**</u>
 
 - **Effect:** Target loses **1/4 max HP per turn**; user sacrifices **50% max HP** to inflict (can self-KO).
 - **Learned by:** Few Ghost-types. Move: **Curse**.
 
-### Tormented
+<u>**Tormented**</u>
 
 - **Effect:** Cannot use same attack twice in a row — must alternate.
 - **Cause:** **Torment**.
 
-### Taunted
+<u>**Taunted**</u>
 
 - **Effect:** Forced to use only direct-damage attacks (no status moves like Calm Mind) for several turns.
 - **Cause:** **Taunt**.
 
-### Imprisoned
+<u>**Imprisoned**</u>
 
 - **Effect:** Target cannot use any moves the user knows. Example: Absol (Imprison/Surf/Flash/Strength) vs. Lapras (Psychic/Surf/Strength/Flash) → Lapras can only use Psychic.
 - **Note:** If both have _identical_ movesets, outcome unknown — email author if known.
 
-### Seeded
+<u>**Seeded**</u>
 
 - **Effect:** Lose **1/16 max HP per turn**; attacker restores same amount (even if original user fainted). Lasts until switched.
 - **Cause:** **Leech Seed**.
@@ -1007,7 +818,7 @@ Special Conditions (volatile) are like Status Effects but **stack**, are **not p
 
 There are 17 types in FR/LG (confirmed no new types in Diamond/Pearl). Some types dominate others; use this chart to check effectiveness.
 
-### Key
+**Key**
 
 | Abbrev                                                                                     | Type     | Symbol |
 | ------------------------------------------------------------------------------------------ | -------- | ------ |
@@ -1030,7 +841,7 @@ There are 17 types in FR/LG (confirmed no new types in Diamond/Pearl). Some type
 | Stl                                                                                        | Steel    |        |
 | **+** = Super Effective, **-** = Not Very Effective, **Empty** = Normal, **=** = No Effect |
 
-### Attacking → Defending Matrix
+**Attacking → Defending Matrix**
 
 | Attack \ Def | Nrm | Fre | Wtr | Ele | Grs | Ice | Fig | Poi | Gro | Fly | Psy | Bug | Roc | Gho | Dra | Drk | Stl |
 | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1053,8 +864,6 @@ There are 17 types in FR/LG (confirmed no new types in Diamond/Pearl). Some type
 | **Stl**      |     | -   | -   | -   |     | +   |     |     |     |     |     |     | +   |     |     |     | -   |
 
 _Reformatted from original ASCII matrix `guide.md:I9` — verify in-game for edge cases._
-
----
 
 ## I10. Nature Lists
 
@@ -1094,77 +903,129 @@ Natures raise one stat to **110%** and lower another to **90%** (5 natures are n
 
 ## I11. Frequently Asked Questions
 
-### Q: Which starter is the best?
+**Q: Which starter is the best?**
 
-**A:** All three differ. **Bulbasaur** = easiest early game (rips through first two gyms, evolves fastest — Venusaur at Lv 32 vs. 36 for others). **Squirtle** = beats first gym, stalls at second; final Blastoise looks badass. **Charmander** = challenge mode (weak early, low stats). Pick Bulbasaur for easy, Squirtle for balanced/badass, Charmander for challenge.
+**A:**
+All three differ. **Bulbasaur** = easiest early game (rips through first two gyms, evolves fastest — Venusaur at Lv 32 vs. 36 for others). **Squirtle** = beats first gym, stalls at second; final Blastoise looks badass. **Charmander** = challenge mode (weak early, low stats). Pick Bulbasaur for easy, Squirtle for balanced/badass, Charmander for challenge.
 
-### Q: Why not Alt+130 for é in Pokémon?
+---
 
-**A:** Author uses "Pokemon" a lot — adding é each time would add ~1 hour of typing.
+**Q: Why not Alt+130 for é in Pokémon?**
 
-### Q: Is this exactly like Red/Blue?
+**A:**
+Author uses "Pokemon" a lot — adding é each time would add ~1 hour of typing.
 
-**A:** No. Mew glitch and MissingNo removed (Gamer moved), some Pokemon locations switched, all trainers except Rocket Grunts now have first names (e.g., Cooltrainer Steve).
+---
 
-### Q: I want 128 Master Balls!
+**Q: Is this exactly like Red/Blue?**
 
-**A:** MissingNo prevented — cheat device can spawn him but corrupts save; just cheat the items directly if cheating.
+**A:**
+No. Mew glitch and MissingNo removed (Gamer moved), some Pokemon locations switched, all trainers except Rocket Grunts now have first names (e.g., Cooltrainer Steve).
 
-### Q: Password for Rocket Warehouse on Sevii Island 5 — where's the other?
+---
 
-**A:** Skip Island 5; go to Island 6 then deep in Island 7 for the Sapphire stone and second password.
+**Q: I want 128 Master Balls!**
 
-### Q: FireRed or LeafGreen better?
+**A:**
+MissingNo prevented — cheat device can spawn him but corrupts save; just cheat the items directly if cheating.
 
-**A:** Roughly identical. Author chose FireRed but recommends LeafGreen for better exclusives (see I3).
+---
 
-### Q: Which Pokémon am I missing?
+**Q: Password for Rocket Warehouse on Sevii Island 5 — where's the other?**
 
-**A:** See Version-Exclusive section (I3).
+**A:**
+Skip Island 5; go to Island 6 then deep in Island 7 for the Sapphire stone and second password.
 
-### Q: Can I trade from G/S/C/R/B/Y?
+---
 
-**A:** No. Gen2→Gen3 IV/EV mechanics completely different; values don't map. Many Johto Pokémon available via Colosseum/XD; Jirachi via Colosseum Bonus Disc (eBay), Celebi via Japanese disc. Full Pokédex still impossible without cheats.
+**Q: FireRed or LeafGreen better?**
 
-### Q: Is fishing old-style or R/S style?
+**A:**
+Roughly identical. Author chose FireRed but recommends LeafGreen for better exclusives (see I3).
 
-**A:** Old-style — cast and battle on bite, no timed A press.
+---
 
-### Q: Where's the ROM?
+**Q: Which Pokémon am I missing?**
 
-**A:** Don't use ROMs; buy the game.
+**A:**
+See Version-Exclusive section (I3).
 
-### Q: Stars around my Pokémon on send-out?
+---
 
-**A:** Shiny — 1/8192 chance, differently colored. Catch it.
+**Q: Can I trade from G/S/C/R/B/Y?**
 
-### Q: Pokérus?
+**A:**
+No. Gen2→Gen3 IV/EV mechanics completely different; values don't map. Many Johto Pokémon available via Colosseum/XD; Jirachi via Colosseum Bonus Disc (eBay), Celebi via Japanese disc. Full Pokédex still impossible without cheats.
 
-**A:** Virus shown as **PKRS** on summary (where status would be). Doubles EVs gained — with Macho Brace = 4× (20–30 min to fully EV train). Lasts 48 hours then leaves a black dot (immunity); stays forever in PC (timer resets on withdraw, so can keep forever). Infection chance ~1/15125 per Pokémon after wild battle (6/15125 per party). Spread by keeping infected Pokémon in party a few battles.
+---
 
-### Q: Pokémon stopped evolving without B/Everstone?
+**Q: Is fishing old-style or R/S style?**
 
-**A:** Friendship evolution — need National Dex (after Elite 4, have 60 Pokémon seen) from Oak or it cancels to avoid Pokédex glitch.
+**A:**
+Old-style — cast and battle on bite, no timed A press.
 
-### Q: Broke — need healing items/money?
+---
 
-**A:** Use VS Seeker on trainers; Cycling Road pre-Elite 4, Resort Gorgeous post-Elite 4. Hold **Amulet Coin** (from Oak's aide in gatehouse between Celadon & Cycling Road — requires 40 Pokémon in Dex) to double winnings — ~$500k in 20–40 min.
+**Q: Where's the ROM?**
 
-### Q: Can't rechallenge Elite 4?
+**A:**
+Don't use ROMs; buy the game.
 
-**A:** Lorelei is on Sevii Island 4, Icefall Cave, defending Pokémon from Rocket. Finish Sevii quest to restore Hoenn links, then rechallenge.
+---
 
-### Q: Can't reach Sevii Islands 4–7?
+**Q: Stars around my Pokémon on send-out?**
 
-**A:** Get National Dex, then Celio on Island 1 upgrades Island Pass → Rainbow Pass.
+**A:**
+Shiny — 1/8192 chance, differently colored. Catch it.
 
-### Q: Have Water Bottle but can't enter Saffron?
+---
 
-**A:** Changed to **Tea** — get from old lady on 1F Celadon Mansion, give to guards.
+**Q: Pokérus?**
 
-### Q: Lugia/Ho-Oh?
+**A:**
+Virus shown as **PKRS** on summary (where status would be). Doubles EVs gained — with Macho Brace = 4× (20–30 min to fully EV train). Lasts 48 hours then leaves a black dot (immunity); stays forever in PC (timer resets on withdraw, so can keep forever). Infection chance ~1/15125 per Pokémon after wild battle (6/15125 per party). Spread by keeping infected Pokémon in party a few battles.
 
-**A:** Requires **Mystery Ticket** via Nintendo Wonderspot (event) — easier via Colosseum/XD or cheat device.
+---
+
+**Q: Pokémon stopped evolving without B/Everstone?**
+
+**A:**
+Friendship evolution — need National Dex (after Elite 4, have 60 Pokémon seen) from Oak or it cancels to avoid Pokédex glitch.
+
+---
+
+**Q: Broke — need healing items/money?**
+
+**A:**
+Use VS Seeker on trainers; Cycling Road pre-Elite 4, Resort Gorgeous post-Elite 4. Hold **Amulet Coin** (from Oak's aide in gatehouse between Celadon & Cycling Road — requires 40 Pokémon in Dex) to double winnings — ~$500k in 20–40 min.
+
+---
+
+**Q: Can't rechallenge Elite 4?**
+
+**A:**
+Lorelei is on Sevii Island 4, Icefall Cave, defending Pokémon from Rocket. Finish Sevii quest to restore Hoenn links, then rechallenge.
+
+---
+
+**Q: Can't reach Sevii Islands 4–7?**
+
+**A:**
+Get National Dex, then Celio on Island 1 upgrades Island Pass → Rainbow Pass.
+
+---
+
+**Q: Have Water Bottle but can't enter Saffron?**
+
+**A:**
+Changed to **Tea** — get from old lady on 1F Celadon Mansion, give to guards.
+
+---
+
+**Q: Lugia/Ho-Oh?**
+
+**A:**
+Requires **Mystery Ticket** via Nintendo Wonderspot (event) — easier via Colosseum/XD or cheat device.
 
 ---
 
@@ -1186,7 +1047,7 @@ Oak will ask if you are a male or female trainer (sprite only, same gameplay), t
 
 > **Tip:** This is an RPG — talk to everyone. You'll later receive an item that links to information from NPCs, so early conversations help you know where to go.
 
-### Start Menu Tutorial
+**Start Menu Tutorial**
 
 Press **Start** for the menu:
 
@@ -1524,7 +1385,9 @@ Jump down ledge:
 
 #### Youngster Calvin
 
-| Spearow | 14 | 174 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Spearow         | 14  | 174 |
 | **Money:** $224 |
 
 > Spearow wrecks Bulbasaur — hit hard/fast.
@@ -1563,7 +1426,9 @@ Loop around:
 
 #### Lass Robin
 
-| Jigglypuff | 14 | 228 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Jigglypuff      | 14  | 228 |
 | **Money:** $224 |
 
 > Has **Cute Charm** — contact moves may infatuate males. Often opens with Sing.
@@ -1599,7 +1464,9 @@ Entrance lit. Grab **TM 09 Bullet Seed** and, left of entrance behind trainer:
 
 #### Lass Iris
 
-| Clefairy | 14 | 204 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Clefairy        | 14  | 204 |
 | **Money:** $224 |
 
 > Has **Cute Charm** — avoid contact.
@@ -1811,7 +1678,9 @@ Defeat 5 trainers for prize — difficulty ramps.
 
 #### Camper Ethan
 
-| Mankey | 18 | 285 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Mankey          | 18  | 285 |
 | **Money:** $360 |
 
 Defeat 5 → end of bridge:
@@ -1863,7 +1732,9 @@ North: **TM 45 Attract**. Right into trainer gauntlet:
 
 #### Hiker Wayne
 
-| Onix | 17 | 393 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Onix            | 17  | 393 |
 | **Money:** $612 |
 
 > After: left side of lower-left square, step right several times → **hidden Pecha Berry**.
@@ -1878,7 +1749,9 @@ North: **TM 45 Attract**. Right into trainer gauntlet:
 
 #### Youngster Dan
 
-| Slowpoke | 17 | 360 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Slowpoke        | 17  | 360 |
 | **Money:** $272 |
 
 > Spams Amnesia.
@@ -1956,7 +1829,9 @@ Swimming pool or gym? Fight both trainers first:
 
 #### Picnicker Diana
 
-| Goldeen | 19 | 451 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Goldeen         | 19  | 451 |
 | **Money:** $380 |
 
 Talk to **Misty**!
@@ -2021,7 +1896,7 @@ Continue along Route 5 into the gatehouse leading to Saffron City — guard comp
 
 The path is long but simple — just green floor. It's the only way to bypass Saffron for now. At the east end, exit and head far left on Route 6: face right for **Rare Candy** and north for **Sitrus Berry** (your 3rd Rare Candy — save it).
 
-### Route 6 Trainers
+**Route 6 Trainers**
 
 #### Bug Catcher Keigo
 
@@ -2034,7 +1909,9 @@ The path is long but simple — just green floor. It's the only way to bypass Sa
 
 #### Camper Ricky
 
-| Squirtle | 20 | 292 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Squirtle        | 20  | 292 |
 | **Money:** $400 |
 
 > Should have evolved — punish him.
@@ -2049,7 +1926,9 @@ The path is long but simple — just green floor. It's the only way to bypass Sa
 
 #### Bug Catcher Elijah (Hardest on route)
 
-| Butterfree | 20 | 685 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Butterfree      | 20  | 685 |
 | **Money:** $240 |
 
 > Has **Compoundeyes** (+30% accuracy) — Sleep Powder/Stun Spore almost always hits. Kill in 1–2 hits; bring Awakenings.
@@ -2114,7 +1993,9 @@ Go right down hallway, south, downstairs: trash can → **Hyper Potion** (200 HP
 
 #### Sailor Leonard
 
-| Shellder | 21 | 436 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Shellder        | 21  | 436 |
 | **Money:** $672 |
 
 > Confuses with Water Pulse.
@@ -2155,7 +2036,9 @@ Next two trainers:
 
 #### Sailor Phillip
 
-| Machop | 20 | 376 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Machop          | 20  | 376 |
 | **Money:** $640 |
 
 > Gust handles it.
@@ -2192,7 +2075,9 @@ Next cabin: cherry-pie lady (ignore). Next: Wigglytuff display (no battle). Last
 
 #### Youngster Tyler
 
-| Nidoran♂ | 21 | 270 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Nidoran♂        | 21  | 270 |
 | **Money:** $336 |
 
 Next cabin: detective hunting Rocket (ignore). Hall end → kitchen: no battles, but three right-wall trash cans → **Pecha Berry** (Poison), **Cheri Berry** (Paralysis), **Chesto Berry** (Sleep); lower-left trash → **Great Ball**.
@@ -2228,7 +2113,9 @@ Back to entrance area, lower cabins left side: man shows **Snorlax** picture (ad
 
 #### Gentleman Brooks
 
-| Pikachu | 23 | 403 |
+| Pokémon          | Lv  | Exp |
+| ---------------- | --- | --- |
+| Pikachu          | 23  | 403 |
 | **Money:** $1656 |
 
 > If you struggle here, Gym will be rough. Table → **Stardust** (sell).
@@ -2326,7 +2213,9 @@ North → **Awakening**. Fight all trainers:
 
 #### Youngster Eddy
 
-| Ekans | 21 | 279 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Ekans           | 21  | 279 |
 | **Money:** $336 |
 
 #### Youngster Dillon
@@ -2339,7 +2228,9 @@ North → **Awakening**. Fight all trainers:
 
 #### Engineer Braxton
 
-| Magnemite | 21 | 400 |
+| Pokémon          | Lv  | Exp |
+| ---------------- | --- | --- |
+| Magnemite        | 21  | 400 |
 | **Money:** $1008 |
 
 > Sonic Boom = 20 fixed damage.
@@ -2436,7 +2327,9 @@ Can skip until end but let's finish now. Three trainers — Diglett ideal:
 
 #### Gentleman Tucker
 
-| Pikachu | 23 | 403 |
+| Pokémon          | Lv  | Exp |
+| ---------------- | --- | --- |
+| Pikachu          | 23  | 403 |
 | **Money:** $1656 |
 
 Save/heal → electric force field. Need **2 hidden switches** back-to-back in trash cans (random among 3x3 grid). First found → second in adjacent can.
@@ -2587,10 +2480,12 @@ Left of Brice hidden: **Chesto Berry** path. Right over ledge:
 
 #### Picnicker Caitlin
 
-| Meowth | 21 | 339 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Meowth          | 21  | 339 |
 | **Money:** $460 |
 
-### Route 10
+**Route 10**
 
 | Route 10 Pokémon | Rarity      |
 | ---------------- | ----------- |
@@ -2639,7 +2534,9 @@ Down to basement — breakable rocks ignore. Continue:
 
 #### Pokémaniac Winston
 
-| Slowpoke | 25 | 529 |
+| Pokémon          | Lv  | Exp |
+| ---------------- | --- | --- |
+| Slowpoke         | 25  | 529 |
 | **Money:** $1200 |
 
 > Highest Lv seen yet but Slowpoke weak. Left: **Revive**.
@@ -2664,7 +2561,9 @@ Near wall Hiker:
 
 #### Hiker Allen
 
-| Geodude | 25 | 460 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Geodude         | 25  | 460 |
 | **Money:** $900 |
 
 Other side:
@@ -2864,7 +2763,7 @@ Back on track via **Route 8**:
 
 > First Fire-types if you didn't pick Charmander: Vulpix (Speed) vs Growlithe (Sp. Atk). Get your version exclusive.
 
-### Route 8 Trainers
+**Route 8 Trainers**
 
 #### Lass Julia
 
@@ -2925,7 +2824,9 @@ Exit left-side Cut tree, head north:
 
 #### Super Nerd Leslie
 
-| Koffing | 26 | 634 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Koffing         | 26  | 634 |
 | **Money:** $624 |
 
 > Has **Self-Destruct** when low — finish it outright.
@@ -3274,7 +3175,9 @@ Girl-only gym — burn with Fire/Flying/Psychic (Flareon etc.). 7 trainers:
 
 #### Beauty Lori
 
-| Exeggcute | 24 | 504 |
+| Pokémon          | Lv  | Exp |
+| ---------------- | --- | --- |
+| Exeggcute        | 24  | 504 |
 | **Money:** $1728 |
 
 #### Lass Lisa
@@ -3351,19 +3254,25 @@ Proceed north:
 
 #### Channeler Hope
 
-| Gastly | 23 | 468 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Gastly          | 23  | 468 |
 | **Money:** $736 |
 
 > Left: **Escape Rope**.
 
 #### Channeler Patricia
 
-| Gastly | 22 | 447 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Gastly          | 22  | 447 |
 | **Money:** $704 |
 
 #### Channeler Carly
 
-| Gastly | 24 | 487 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Gastly          | 24  | 487 |
 | **Money:** $768 |
 
 > Up to 4F. Near stairs:
@@ -3380,38 +3289,50 @@ Proceed north:
 
 #### Channeler Jody
 
-| Gastly | 22 | 447 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Gastly          | 22  | 447 |
 | **Money:** $704 |
 
 > Follow path to nook → **Great Ball**; near stairs:
 
 #### Channeler Paula
 
-| Gastly | 24 | 487 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Gastly          | 24  | 487 |
 | **Money:** $768 |
 
 > Up to 5F. Near square grid:
 
 #### Channeler Ruth
 
-| Gastly | 22 | 447 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Gastly          | 22  | 447 |
 | **Money:** $704 |
 
 #### Channeler Tammy
 
-| Haunter | 23 | 621 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Haunter         | 23  | 621 |
 | **Money:** $736 |
 
 > First Haunter — knows **Curse** (halves own HP to curse you — can self-KO). Grid on floor → **heal entire party** (reuse anytime). Nearby: **Cleanse Tag**.
 
 #### Channeler Karina
 
-| Gastly | 24 | 487 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Gastly          | 24  | 487 |
 | **Money:** $768 |
 
 #### Channeler Janae
 
-| Gastly | 22 | 447 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Gastly          | 22  | 447 |
 | **Money:** $704 |
 
 > Nearby: **Nugget**.
@@ -3431,12 +3352,16 @@ Proceed north:
 
 #### Channeler Jennifer
 
-| Gastly | 24 | 487 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Gastly          | 24  | 487 |
 | **Money:** $768 |
 
 #### Channeler Emilia
 
-| Gastly | 24 | 487 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Gastly          | 24  | 487 |
 | **Money:** $768 |
 
 > Up to 7F: ghost attacks — Silph Scope reveals **Lv 30 Marowak** (cannot catch, can flee — give Exp). 7F Rocket:
@@ -3489,7 +3414,7 @@ West of city → Snorlax blocks. Use Poké Flute next to it → wakes and attack
 
 Guard requires bike — enter **Cycling Road** (6 top bikers → then more south).
 
-### Top 6 Bikers (right→left as seen)
+**Top 6 Bikers (right→left as seen)**
 
 #### Biker Lao
 
@@ -3518,7 +3443,9 @@ Guard requires bike — enter **Cycling Road** (6 top bikers → then more south
 
 #### Biker Hideo
 
-| Weezing | 33 | 1222 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Weezing         | 33  | 1222 |
 | **Money:** $660 |
 
 #### Biker Ruben
@@ -3593,7 +3520,9 @@ Past water pond split → right side, 1 up +1 right from 3rd sign left of water 
 
 #### Cue Ball Zeek
 
-| Machoke | 33 | 1032 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Machoke         | 33  | 1032 |
 | **Money:** $792 |
 
 #### Biker William
@@ -3611,7 +3540,9 @@ Back to top of pond → left path → biker:
 
 #### Biker Billy
 
-| Muk | 33 | 1110 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Muk             | 33  | 1110 |
 | **Money:** $660 |
 
 > Minimize + Poison — kill fast.
@@ -3664,7 +3595,9 @@ Outside → three Bird Keepers to Fuchsia:
 
 #### Bird Keeper Ramiro
 
-| Dodrio | 34 | 1150 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Dodrio          | 34  | 1150 |
 | **Money:** $816 |
 
 > Despite no wings, Flying — Thunderbolt.
@@ -3705,7 +3638,9 @@ South → 5 trainers:
 
 #### Fisherman Hank
 
-| Goldeen | 27 | 642 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Goldeen         | 27  | 642 |
 | **Money:** $972 |
 
 #### Fisherman Elliot
@@ -3893,7 +3828,9 @@ Onto **Route 13** — huge trainer gauntlet:
 
 #### Bird Keeper Donald
 
-| Farfetch'd | 33 | 664 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Farfetch'd      | 33  | 664 |
 | **Money:** $792 |
 
 #### Bird Keeper Benny
@@ -3971,7 +3908,9 @@ Cut tree left → north → **TM 18 Rain Dance**. Straight path:
 
 #### Picnicker Celia
 
-| Clefairy | 33 | 480 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Clefairy        | 33  | 480 |
 | **Money:** $660 |
 
 > Metronome lottery.
@@ -4165,7 +4104,9 @@ Spelling looks odd now. Trap is **invisible walls** — tiles with small white c
 
 #### Juggler Kayden
 
-| Hypno | 38 | 1342 |
+| Pokémon          | Lv  | Exp  |
+| ---------------- | --- | ---- |
+| Hypno            | 38  | 1342 |
 | **Money:** $1520 |
 
 #### Juggler Kirk
@@ -4287,7 +4228,9 @@ Elevator to **11F** Boardroom (locked other side). South Grunt:
 
 #### Team Rocket Grunt 2
 
-| Hypno | 33 | 1165 |
+| Pokémon          | Lv  | Exp  |
+| ---------------- | --- | ---- |
+| Hypno            | 33  | 1165 |
 | **Money:** $1056 |
 
 #### Juggler Dalton
@@ -4310,7 +4253,9 @@ Elevator to **11F** Boardroom (locked other side). South Grunt:
 
 #### Team Rocket Grunt 3
 
-| Arbok | 33 | 1039 |
+| Pokémon          | Lv  | Exp  |
+| ---------------- | --- | ---- |
+| Arbok            | 33  | 1039 |
 | **Money:** $1056 |
 
 > Near Card Key: use warp panel twice to bypass Grunt → collect **Card Key** → repeat to get back → left door unlock → **TM 01 Focus Punch**; north door → **Protein**; running guy → **Giovanni Fame Checker** entry. Now you can clear all 25 floor-by-floor trainers — proceed to **2F**:
@@ -4382,7 +4327,9 @@ Go to **4F** near stairs:
 
 #### Scientist Rodney
 
-| Electrode | 33 | 1060 |
+| Pokémon          | Lv  | Exp  |
+| ---------------- | --- | ---- |
+| Electrode        | 33  | 1060 |
 | **Money:** $1584 |
 
 5F already cleared → **6F**:
@@ -4535,7 +4482,9 @@ South:
 
 #### Team Rocket Grunt 17
 
-| Machoke | 33 | 1032 |
+| Pokémon          | Lv  | Exp  |
+| ---------------- | --- | ---- |
+| Machoke          | 33  | 1032 |
 | **Money:** $1056 |
 
 > Door: **Rare Candy + Carbos + Ultra Ball**. Down to **3F** south:
@@ -4654,7 +4603,9 @@ Ex-Gym, 5 Blackbelts in a row:
 
 #### Blackbelt Aaron
 
-| Primeape | 36 | 1149 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Primeape        | 36  | 1149 |
 | **Money:** $864 |
 
 > High level — hit fast.
@@ -4721,7 +4672,9 @@ Warp C:
 
 #### Channeler Stacy
 
-| Haunter | 38 | 1026 |
+| Pokémon          | Lv  | Exp  |
+| ---------------- | --- | ---- |
+| Haunter          | 38  | 1026 |
 | **Money:** $1216 |
 
 > Not Psychic — free win.
@@ -4730,7 +4683,9 @@ Warp D:
 
 #### Psychic Preston
 
-| Slowbro | 38 | 1335 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Slowbro         | 38  | 1335 |
 | **Money:** $760 |
 
 > Thunderbolt.
@@ -4859,7 +4814,9 @@ Two choices to Cinnabar (middle of ocean): **Fuchsia** is longer via Seafoam Isl
 
 #### Swimmer Jack
 
-| Starmie | 37 | 1641 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Starmie         | 37  | 1641 |
 | **Money:** $148 |
 
 > Swimmers give little money.
@@ -4942,7 +4899,9 @@ Statue of Mew → hidden button → doors; reopen right → **Protein** → upst
 
 #### Burglar Simon
 
-| Ninetales | 38 | 1449 |
+| Pokémon          | Lv  | Exp  |
+| ---------------- | --- | ---- |
+| Ninetales        | 38  | 1449 |
 | **Money:** $3344 |
 
 > Surf OHKO. Nearby table book: "Mew gave birth. We named the newborn Mewtwo."
@@ -5044,14 +5003,18 @@ No question next:
 
 #### Burglar Ramon
 
-| Ponyta | 41 | 1335 |
+| Pokémon          | Lv  | Exp  |
+| ---------------- | --- | ---- |
+| Ponyta           | 41  | 1335 |
 | **Money:** $3608 |
 
 **Q4** Are Electric-type moves effective against Ground-type? **No**
 
 #### Super Nerd Derek
 
-| Rapidash | 41 | 1686 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Rapidash        | 41  | 1686 |
 | **Money:** $984 |
 
 > Talk after for Blaine Fame entry.
@@ -5127,7 +5090,9 @@ Heal after Blaine! Directional pads return but you can avoid stepping. Unknown l
 
 #### Blackbelt Kiyo
 
-| Machoke | 43 | 1344 |
+| Pokémon          | Lv  | Exp  |
+| ---------------- | --- | ---- |
+| Machoke          | 43  | 1344 |
 | **Money:** $1032 |
 
 #### Cooltrainer Samuel
@@ -5166,7 +5131,9 @@ Directional arrows loop to start → north avoiding pads → three trainers:
 
 #### Tamer Jason
 
-| Rhyhorn | 43 | 1243 |
+| Pokémon          | Lv  | Exp  |
+| ---------------- | --- | ---- |
+| Rhyhorn          | 43  | 1243 |
 | **Money:** $1720 |
 
 > One Surf.
@@ -5340,7 +5307,9 @@ Ignore right ladder → north:
 
 #### Juggler Vincent
 
-| Mr. Mime | 48 | 1398 |
+| Pokémon          | Lv  | Exp  |
+| ---------------- | --- | ---- |
+| Mr. Mime         | 48  | 1398 |
 | **Money:** $1920 |
 
 > High level Mr. Mime. Pick up **TM 07 Hail** nearby → back to previous Vincent → up right ladder.
@@ -5860,7 +5829,7 @@ Requirements: beat first Elite 4 + have **National Dex** → talk to **Celio** o
 
 Rematch: all teams **65–75**, changed movesets, much harder but huge Exp.
 
-### Elite 4 Lorelei (Rematch)
+**Elite 4 Lorelei (Rematch)**
 
 #### Dewgong 64 — Thick Fat — 2413 Exp
 
@@ -5886,7 +5855,7 @@ Rematch: all teams **65–75**, changed movesets, much harder but huge Exp.
 - Attacks: Surf, Ice Beam, Thunder, Psychic
   > Now 300 HP, coverage destroys 11/17 types; Shell Armor → Water Absorb (Water heals Lapras). Dark walls well; don't use Water.
 
-### Elite 4 Bruno (Rematch)
+**Elite 4 Bruno (Rematch)**
 
 #### Steelix 65 — Rock Head, Steel/Ground — 2710 Exp
 
@@ -5913,7 +5882,7 @@ Rematch: all teams **65–75**, changed movesets, much harder but huge Exp.
 - Attacks: Earthquake, Iron Tail, Dragonbreath (30% para), Crunch
   > +1 level, Dragonbreath para chance → Flamethrower/Surf.
 
-### Elite 4 Agatha (Rematch)
+**Elite 4 Agatha (Rematch)**
 
 #### Gengar 66 — Levitate — 2684 Exp
 
@@ -5940,7 +5909,7 @@ Rematch: all teams **65–75**, changed movesets, much harder but huge Exp.
 - Attacks: Sludge Bomb, Shadow Ball, Psychic, Thunderbolt
   > Hypnosis/Nightmare → Psychic/Thunderbolt mixed sweeper.
 
-### Elite 4 Lance (Rematch)
+**Elite 4 Lance (Rematch)**
 
 #### Gyarados 68 — Intimidate — 3116 Exp
 
@@ -5967,7 +5936,7 @@ Rematch: all teams **65–75**, changed movesets, much harder but huge Exp.
 - Attacks: Hyper Beam, Surf, Ice Beam, Dragon Dance
   > Replaces Dragonair — resists Fire/Water/Steel; only Dragon weak (Ice resists Water, Dragon resists Thunderbolt). Dragon Dance → Surf/Hyper Beam. Burst.
 
-### Champion Gary Battle #9 — The Final Gary Battle!
+**Champion Gary Battle #9 — The Final Gary Battle!**
 
 | Your Starter     | Team (Tyranitar72 & Heracross72 always)                                                                     |
 | ---------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -6168,7 +6137,9 @@ Surf small river:
 
 #### Swimmer Finn
 
-| Starmie | 38 | 1684 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Starmie         | 38  | 1684 |
 | **Money:** $152 |
 
 #### Swimmer Maria
@@ -6192,7 +6163,7 @@ Surf small river:
 
 Past him → **Mt. Ember** entrance.
 
-### Mt. Ember
+**Mt. Ember**
 
 First-person view. Right ahead Move Tutor teaches **Explosion** (250 base strongest, self-KO suicide). Right: two Rocket Grunts near wall digging — ignore until National Dex. Left boulder: Strength push left to squeeze around →
 
@@ -6343,12 +6314,16 @@ Into Three Island town → heal → exit north → shop owners/civilians attacke
 
 #### Biker Goon 2
 
-| Koffing | 38 | 927 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Koffing         | 38  | 927 |
 | **Money:** $760 |
 
 #### Biker Goon 3
 
-| Grimer | 38 | 732 |
+| Pokémon         | Lv  | Exp |
+| --------------- | --- | --- |
+| Grimer          | 38  | 732 |
 | **Money:** $760 |
 
 #### Cue Ball Paxton (Leader)
@@ -6437,7 +6412,9 @@ Odd rock → **Max Repel**.
 
 #### Swimmer Tisha
 
-| Kingler | 38 | 1677 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Kingler         | 38  | 1677 |
 | **Money:** $152 |
 
 Ahead → **Berry Forest** entrance — tons of hidden berries (for R/S/E planting):
@@ -6536,7 +6513,9 @@ Surf right north to **Resort Gorgeous** (6 trainers):
 
 #### Painter Rayna
 
-| Smeargle | 50 | 1135 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Smeargle        | 50  | 1135 |
 | **Money:** $800 |
 
 #### Youngster Destin
@@ -6656,7 +6635,7 @@ South around trees → **PP Up** near Warehouse → final Grunt:
 
 Have both passwords if you followed guide; now talk to door → insert both → unlock **Rocket Warehouse** arrow maze.
 
-### Rocket Warehouse (arrow pads like Rocket Hideout)
+**Rocket Warehouse (arrow pads like Rocket Hideout)**
 
 Left arrows → pickup **Up-Grade** (Porygon→Porygon2) → female:
 
@@ -6765,7 +6744,9 @@ Fork: north = Altering Cave (future section), south = main quest. North for Exp:
 
 #### Swimmer Samir
 
-| Gyarados | 50 | 2292 |
+| Pokémon         | Lv  | Exp  |
+| --------------- | --- | ---- |
+| Gyarados        | 50  | 2292 |
 | **Money:** $200 |
 
 #### Twins Miu & Mia (Double)
@@ -6852,7 +6833,7 @@ Hidden Aspear Berry near Ruin Valley stairs. Trainers:
 
 #### Pokemaniac Hector (Rhyhorn49/Kangaskhan49 $2352), Ruin Maniac Stanly Graveler×2/Onix48 $2304, Foster Golem50 $2400, Larry Machoke×2 $2352 → Braille door "Cut" → open → **Dotted Hole**.
 
-### Dotted Hole Cave Puzzles
+**Dotted Hole Cave Puzzles**
 
 Only Zubat. Fall center hole → 4-hole room with Braille: **take north, then left, then right, then south**. Message decodes:
 
@@ -6886,7 +6867,7 @@ Heal → bookcase Agatha Fame. North = Trainer Tower (see XIV), south bridge Mov
 
 #### Cool Couple Lex+Nya (Miltank52/Tauros52 $2496) → Tanoby Key entrance.
 
-### Tanoby Key Puzzle
+**Tanoby Key Puzzle**
 
 7 boulders → 7 holes must all be down at once to unlock Ruins (else assign Pokémon+you). Diagram with 7 boulders R rocks H holes L ledge: instructions Boulder 2 up, Boulder1 1right2up3left, Boulder3 1left2up3right, Boulder5 1left2up, Boulder7 1right2up, Boulder4 1right3up2left, Boulder6 1left3up2right → rumbling doors open far away. Leave south → Sevault Canyon trainers:
 
@@ -7414,7 +7395,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 
 > **Note:** Once you have all six bits of info, press **Start** while highlighting that person to read a special bit of info aimed towards you from the person!
 
-## Professor Oak
+**Professor Oak**
 
 | #   | How to Obtain                                   |
 | --- | ----------------------------------------------- |
@@ -7425,7 +7406,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Talk to Agatha in Indigo Plateau                |
 | 6   | Talk to Oak's Assistant after beating Elite 4   |
 
-## Daisy
+**Daisy**
 
 | #   | How to Obtain                                                        |
 | --- | -------------------------------------------------------------------- |
@@ -7436,7 +7417,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Talk to the Old Lady in the Celedon Mansion                          |
 | 6   | Check the bookshelf in the Island 4 Pokemon Center                   |
 
-## Brock
+**Brock**
 
 | #   | How to Obtain                                                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -7447,7 +7428,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Talk to man inside Mt. Moon first floor                                                                                                              |
 | 6   | Inspect bookshelf inside Pewter Museum in the area where you got the Old Amber, only available if you have the other five Brock Fame Checker entries |
 
-## Misty
+**Misty**
 
 | #   | How to Obtain                                            |
 | --- | -------------------------------------------------------- |
@@ -7458,7 +7439,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Talk to the woman near Bill's house                      |
 | 6   | Check bookshelf in Cerulean Pokemon Center               |
 
-## Lt. Surge
+**Lt. Surge**
 
 | #   | How to Obtain                                    |
 | --- | ------------------------------------------------ |
@@ -7469,7 +7450,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Talk to Dwayne inside Vermillion City Gym        |
 | 6   | Check bookshelf inside Vermillion Pokemon Center |
 
-## Erika
+**Erika**
 
 | #   | How to Obtain                                |
 | --- | -------------------------------------------- |
@@ -7480,7 +7461,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Talk to Erika                                |
 | 6   | Bookshelf on second floor of Celedon Mansion |
 
-## Koga
+**Koga**
 
 | #   | How to Obtain                                   |
 | --- | ----------------------------------------------- |
@@ -7491,7 +7472,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Check bookshelf inside the Warden's house       |
 | 6   | Talk to the man in the Area 2 Rest House        |
 
-## Sabrina
+**Sabrina**
 
 | #   | How to Obtain                                 |
 | --- | --------------------------------------------- |
@@ -7502,7 +7483,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Check the bookshelf in Saffron Pokemon Center |
 | 6   | Talk to Tyron in Saffron City Gym             |
 
-## Blaine
+**Blaine**
 
 | #   | How to Obtain                                      |
 | --- | -------------------------------------------------- |
@@ -7513,7 +7494,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Inspect the picture behind Blaine                  |
 | 6   | Check the bookshelf inside Resort Gorgeous's house |
 
-## Giovanni
+**Giovanni**
 
 | #   | How to Obtain                                                |
 | --- | ------------------------------------------------------------ |
@@ -7524,7 +7505,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Talk to the Gym Guy inside the Viridian City Gym             |
 | 6   | Talk to the Scientist inside Rocket Warehouse on Five Island |
 
-## Lorelei
+**Lorelei**
 
 | #   | How to Obtain                                     |
 | --- | ------------------------------------------------- |
@@ -7535,7 +7516,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Talk to girl near Lorelei's house on Four Island  |
 | 6   | Talk to lady near the lake on Four Island         |
 
-## Bruno
+**Bruno**
 
 | #   | How to Obtain                                  |
 | --- | ---------------------------------------------- |
@@ -7546,7 +7527,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Talk to woman on Two Island near Game Corner   |
 | 6   | Talk to man outside Tanoby Key on Seven Island |
 
-## Agatha
+**Agatha**
 
 | #   | How to Obtain                                                                           |
 | --- | --------------------------------------------------------------------------------------- |
@@ -7557,7 +7538,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Talk to Agatha                                                                          |
 | 6   | Talk to lady in Six Island Poke Mart                                                    |
 
-## Lance
+**Lance**
 
 | #   | How to Obtain                                                                            |
 | --- | ---------------------------------------------------------------------------------------- |
@@ -7568,7 +7549,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Check bookshelf in Indigo Plateau lobby                                                  |
 | 6   | Talk to man in Indigo Plateau lobby                                                      |
 
-## Bill
+**Bill**
 
 | #   | How to Obtain                                     |
 | --- | ------------------------------------------------- |
@@ -7579,7 +7560,7 @@ The finale describes the lonely item in your pack that probably won't get much u
 | 5   | Talk to Celio on One Island                       |
 | 6   | Talk to Celio on One Island (He says 3 things)    |
 
-## Mr. Fuji
+**Mr. Fuji**
 
 | #   | How to Obtain                                                             |
 | --- | ------------------------------------------------------------------------- |
