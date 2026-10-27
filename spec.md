@@ -33,25 +33,26 @@ project-root/
 │   ├── index.md                          ← homepage, layout:home + data-loader list
 │   ├── index.data.ts                     ← VitePress data loader (createContentLoader) for guide discovery
 │   ├── guides/
-│   │   └── pokemon-firered-leafgreen/
-│   │       └── index.md                  ← converted guide content
+│   │   └── pokemon/                       ← one folder per game series, lowercase-hyphenated
+│   │       └── firered-leafgreen/
+│   │           └── index.md               ← converted guide content
 │   └── public/
-│       └── (images, per-guide subfolder)
+│       └── (images, per `<series>/<slug>` subfolder)
 ├── package.json
 └── README.md
 ```
 
 Rules for future guides:
-- One folder per guide under `docs/guides/<slug>/`, lowercase-hyphenated
+- One folder per guide under `docs/guides/<series>/<slug>/`, series and slug lowercase-hyphenated
 - Content lives in `index.md` (allows splitting into multiple pages later)
-- Guide-specific images go in `docs/public/<slug>/`
+- Guide-specific images go in `docs/public/<series>/<slug>/`
 
 ---
 
 ## Initial Content
 
 Place the provided converted Markdown file at:
-`docs/guides/pokemon-firered-leafgreen/index.md` (do not alter). If not
+`docs/guides/pokemon/firered-leafgreen/index.md` (do not alter). If not
 provided at scaffold time, use a placeholder heading + "Content coming
 soon."
 
@@ -60,8 +61,8 @@ soon."
 ## Navigation & Sidebar
 
 - Top nav: Home (`/`), Guides (`/` or `/#guides`) via `themeConfig.nav` (VitePress built-in)
-- Sidebar scoped per guide via path-prefix keys in `config.ts` (`themeConfig.sidebar['/guides/<slug>/']`) — VitePress built-in
-- Homepage lists all guides as links/cards (acts as a directory) — use VitePress **data loader** (`docs/index.data.ts` with `createContentLoader('guides/*/index.md')`) imported in `docs/index.md` via `<script setup> import { data } from './index.data'` (see VitePress guide/data-loading.md). This is the recommended VitePress tool for content discovery — homepage auto-updates without hardcoding `features`
+- Sidebar scoped per guide via path-prefix keys in `config.ts` (`themeConfig.sidebar['/guides/<series>/<slug>/']`) — VitePress built-in
+- Homepage lists all guides grouped by series as links/cards (acts as a directory) — use VitePress **data loader** (`docs/index.data.ts` composing `docs/guides/index.data.ts` with `createContentLoader('guides/**/index.md')`). This is the recommended VitePress tool for content discovery — homepage auto-updates without hardcoding `features`
 
 ---
 
@@ -132,9 +133,8 @@ No deployment/CI, no Algolia, no PagedJS, no auth, no CMS/database. No custom ho
 
 ## Acceptance Criteria
 
-1. `pnpm dev` shows homepage linking to the FireRed/LeafGreen guide
-2. Guide page renders correctly with a scoped sidebar
+1. `pnpm dev` shows homepage linking to the FireRed/LeafGreen guide2. Guide page renders correctly with a scoped sidebar
 3. Search returns results from guide content
 4. Browser print/Print-to-PDF: no nav/UI chrome, black-on-white, sensible
    page breaks, external links show URLs, internal links don't
-5. Adding a new guide folder (`docs/guides/<new-slug>/index.md` + `docs/public/<new-slug>/`) + one sidebar entry in `config.ts` works without touching other files; homepage updates automatically via data loader
+5. Adding a new guide folder (`docs/guides/<series>/<new-slug>/index.md` + `docs/public/<series>/<new-slug>/`) + one sidebar entry in `config.ts` works without touching other files; homepage updates automatically via data loader

@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Pokemon Game Guides',
+  title: 'Game Guides',
   description: 'Converted game guides — browsable, searchable, print-friendly.',
   cleanUrls: true,
   vite: {
@@ -16,8 +16,11 @@ export default defineConfig({
       { text: 'Guides', link: '/guides/' }
     ],
     sidebar: {
-      '/guides/firered-leafgreen/': [
-        { text: 'Pokémon FireRed / LeafGreen', link: '/guides/firered-leafgreen/' }
+      '/guides/pokemon/firered-leafgreen/': [
+        { text: 'Pokémon FireRed / LeafGreen', link: '/guides/pokemon/firered-leafgreen/' }
+      ],
+      '/guides/pokemon/emerald/': [
+        { text: 'Pokémon Emerald', link: '/guides/pokemon/emerald/' }
       ]
     },
     search: {
