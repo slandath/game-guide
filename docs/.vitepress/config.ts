@@ -21,6 +21,9 @@ export default defineConfig({
       ],
       '/guides/pokemon/emerald/': [
         { text: 'Pokémon Emerald', link: '/guides/pokemon/emerald/' }
+      ],
+      '/guides/zelda/ocarina-of-time/': [
+        { text: 'Ocarina of Time', link: '/guides/zelda/ocarina-of-time/' }
       ]
     },
     search: {
