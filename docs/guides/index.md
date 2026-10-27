@@ -3,28 +3,31 @@ title: Guides
 ---
 
 <script setup>
-import { data as guides } from './index.data'
+import { data as groups } from './index.data'
 </script>
 
 # Guides
 
-Browse all available game guides.
+Browse all available game guides, grouped by game series.
 
-<div class="guides-grid">
-  <a
-    v-for="g in guides"
-    :key="g.url"
-    :href="g.url"
-    class="guide-card"
-  >
-    <span class="guide-card-title">{{ g.title }}</span>
-    <span class="guide-card-url">{{ g.url }}</span>
-  </a>
-
-  <p v-if="!guides || guides.length === 0" class="guides-empty">
-    No guides yet — add a folder under <code>docs/guides/&lt;slug&gt;/</code>.
-  </p>
+<div v-for="group in groups" :key="group.series">
+  <h2 class="series-heading">{{ group.label }}</h2>
+  <div class="guides-grid">
+    <a
+      v-for="g in group.guides"
+      :key="g.url"
+      :href="g.url"
+      class="guide-card"
+    >
+      <span class="guide-card-title">{{ g.title }}</span>
+      <span class="guide-card-url">{{ g.url }}</span>
+    </a>
+  </div>
 </div>
+
+<p v-if="!groups || groups.length === 0" class="guides-empty">
+  No guides yet — add a folder under <code>docs/guides/&lt;series&gt;/&lt;game-slug&gt;/</code>.
+</p>
 
 <style scoped>
 .guides-grid {

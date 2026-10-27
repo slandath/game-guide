@@ -1,4 +1,4 @@
-# Poke-Guide — Game Guide Documentation Site
+# Game Guides Documentation Site
 
 An AI-assisted static documentation site built with [VitePress](https://vitepress.dev/) (latest stable, Node 24). Hosts converted game guides (Markdown). Browsable, full-text searchable (local minisearch), print-friendly.
 
@@ -19,13 +19,13 @@ Requires Node `>=18.0.0` (devcontainer: Node 24 `typescript-node:24`), pnpm `>=1
 
 ## Adding a guide
 
-1. Create `docs/guides/<slug>/index.md` — slug is lowercase-hyphenated (e.g. `pokemon-emerald`). Content lives in `index.md` so it can be split into multiple pages later.
-2. Add images to `docs/public/<slug>/` — referenced as `/<slug>/image.png` (VitePress `public` convention).
+1. Create `docs/guides/<series>/<slug>/index.md` — series and slug are lowercase-hyphenated (e.g. `pokemon/emerald`). Content lives in `index.md` so it can be split into multiple pages later.
+2. Add images to `docs/public/<series>/<slug>/` — referenced as `/<series>/<slug>/image.png` (VitePress `public` convention).
 3. Add one sidebar entry in `docs/.vitepress/config.ts`:
 
 ```ts
 sidebar: {
-  '/guides/<slug>/': [{ text: '<Guide Title>', items: [{ text: '<Guide Title>', link: '/guides/<slug>/' }] }],
+  '/guides/<series>/<slug>/': [{ text: '<Guide Title>', items: [{ text: '<Guide Title>', link: '/guides/<series>/<slug>/' }] }],
   // ... existing guides
 }
 ```
